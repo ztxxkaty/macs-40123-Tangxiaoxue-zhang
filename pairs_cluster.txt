@@ -1,0 +1,37 @@
+pig
+ostrich
+hyena
+rabbit
+kitten
+chihuahua
+sheep
+bull
+chick
+turkey
+piglet
+ferret
+poodle
+puppy
+coop
+llama
+pug
+zebra
+guinea pig
+pet food
+ram
+calf
+rooster
+calf
+dalmatian
+yak
+camel
+bison
+dog
+lamb
+cow
+donkey
+dogfood
+alpaca
+trough
+boar
+goat

@@ -1,0 +1,15 @@
+#Tangxiaoxue Zhang
+"results.csv" contains the results of the pilot samples
+- index: the name of the images-combined
+- mem_C: the memorability score of the combined image
+- max_memAB: the higher memorability score between image A and image B
+- min_memAB: the lower memorability score between image A and image B
+- avg_memAB: the average score of image A and image B's memorability
+- sim_AC: the similarity score between image A and image C (cosine similarity between image-embedding vectors, which are derived using CLIP model)
+- sim_BC: the similarity score between image B and image C
+- max_simACBC: the higher score of similarity scores between AC and BC
+- min_simACBC: the lower score of similarity scores between AC and BC
+- mem_max_simACBC: the memorability score of the image(A,B) that is more similiar to image C
+- mem_min_simACBC: the memorability score of the image(A,B) that is less similiar to image C
+- semantic_similarity: the semantic similarity between two concepts, derived from cosine similarity between two semantic embedded vectors
+- category: 4 groups [HS, HD, LS, LD]
