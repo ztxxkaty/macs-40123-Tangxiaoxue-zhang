@@ -1,0 +1,45 @@
+gun
+landmine
+arrow
+axe
+baseball bat
+bat
+bazooka
+blowgun
+blowtorch
+bomb
+boomerang
+brass knuckles
+bullet
+cannon
+cannonball
+catapult
+chainsaw
+cleaver
+crossbow
+crowbar
+dagger
+dart
+dynamite
+flamethrower
+grenade
+hammer
+icepick
+knife
+machete
+machine gun
+missile
+pickax
+pitchfork
+pocketknife
+razor blade
+revolver
+rifle
+scalpel
+scissors
+slingshot
+spear
+sword
+torpedo
+trident
+whip

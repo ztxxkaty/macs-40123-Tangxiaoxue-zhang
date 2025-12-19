@@ -1,0 +1,642 @@
+{
+    "grapefruit+granola": [
+        "HS",
+        0.9748241713933846
+    ],
+    "coffee_bean+coffee": [
+        "HS",
+        0.9393628685422709
+    ],
+    "roll+airbag": [
+        "HS",
+        0.9308706440558693
+    ],
+    "poinsettia+airbag": [
+        "HS",
+        0.9305323018157886
+    ],
+    "penlight+penholder": [
+        "HS",
+        0.9267487898571626
+    ],
+    "revolver+nail_clippers": [
+        "HS",
+        0.9204037782291271
+    ],
+    "nail_clippers+jukebox": [
+        "HS",
+        0.9184441732443607
+    ],
+    "revolver+jukebox": [
+        "HS",
+        0.91635634421389
+    ],
+    "pineapple+pine_tree": [
+        "HS",
+        0.9163399876213137
+    ],
+    "wallpaper+tape_recorder": [
+        "HS",
+        0.9143269933266321
+    ],
+    "taffy+tadpole": [
+        "HS",
+        0.912470720030395
+    ],
+    "kangaroo+canoe": [
+        "HS",
+        0.9110829966705449
+    ],
+    "stiletto+starfish": [
+        "HS",
+        0.9101965290089883
+    ],
+    "printer+hobbyhorse": [
+        "HS",
+        0.9055822674378285
+    ],
+    "stir_fry+stingray": [
+        "HS",
+        0.9036130692136678
+    ],
+    "swab+bikini": [
+        "HS",
+        0.9023323376211904
+    ],
+    "vegetable+cello": [
+        "HS",
+        0.8994121083571043
+    ],
+    "tape_recorder+pantsuit": [
+        "HS",
+        0.8984226787893091
+    ],
+    "kiwi+ankle": [
+        "HS",
+        0.8966333340787033
+    ],
+    "roll+poinsettia": [
+        "HS",
+        0.8929408320256588
+    ],
+    "punching_bag+burrito": [
+        "HS",
+        0.8902904983981587
+    ],
+    "globe+baseball_glove": [
+        "HS",
+        0.8848559735000983
+    ],
+    "tooth+raspberry": [
+        "HS",
+        0.884554275564032
+    ],
+    "tumbleweed+swing": [
+        "HS",
+        0.8845498321957577
+    ],
+    "tooth+parfait": [
+        "HS",
+        0.8829351147921837
+    ],
+    "headscarf+headlight": [
+        "HS",
+        0.8829228372076035
+    ],
+    "turntable+lightning_bug": [
+        "HS",
+        0.8796553649442631
+    ],
+    "snowsuit+couch": [
+        "HS",
+        0.8743153651934915
+    ],
+    "shears+shawl": [
+        "HS",
+        0.8724757013492349
+    ],
+    "guinea_pig+banjo": [
+        "HS",
+        0.8707352607877822
+    ],
+    "vegetable+pheasant": [
+        "HS",
+        0.8689689843085373
+    ],
+    "toast+parfait": [
+        "HS",
+        0.8684536454942149
+    ],
+    "mallet+banjo": [
+        "HS",
+        0.8677256753683832
+    ],
+    "swing+shelf": [
+        "HS",
+        0.8663675548516191
+    ],
+    "wrap+speedometer": [
+        "HS",
+        0.865892626436293
+    ],
+    "onion+flour": [
+        "HS",
+        0.8646313610484652
+    ],
+    "pie+piano": [
+        "HS",
+        0.864339767750043
+    ],
+    "scallion+bus": [
+        "HS",
+        0.8634638666147324
+    ],
+    "toad+oilcan": [
+        "HS",
+        0.8632484548714464
+    ],
+    "pheasant+cello": [
+        "HS",
+        0.8632184048607349
+    ],
+    "pepperoni+dogfood": [
+        "LS",
+        0.9610101483477153
+    ],
+    "mole+deer": [
+        "LS",
+        0.9007321597370284
+    ],
+    "blueberry+berry": [
+        "LS",
+        0.8835782478160507
+    ],
+    "syrup+burrito": [
+        "LS",
+        0.8681031704639932
+    ],
+    "ham+cheeseburger": [
+        "LS",
+        0.8550372282245138
+    ],
+    "cello+bassoon": [
+        "LS",
+        0.8538244649413883
+    ],
+    "clarinet+cello": [
+        "LS",
+        0.8512761206003383
+    ],
+    "corkscrew+bottle_opener": [
+        "LS",
+        0.8486313647707776
+    ],
+    "clarinet+bassoon": [
+        "LS",
+        0.8483918485627824
+    ],
+    "toast+peppermint": [
+        "LS",
+        0.8457798166468552
+    ],
+    "grape+cantaloupe": [
+        "LS",
+        0.8300043276713914
+    ],
+    "espresso+coffee": [
+        "LS",
+        0.8283766094711285
+    ],
+    "sorbet+parfait": [
+        "LS",
+        0.8258466741820076
+    ],
+    "ice-cream_cone+ice_cream": [
+        "LS",
+        0.8255135820655939
+    ],
+    "asparagus+artichoke": [
+        "LS",
+        0.8254779835786363
+    ],
+    "cupcake+cake": [
+        "LS",
+        0.8243068578620747
+    ],
+    "bok_choy+asparagus": [
+        "LS",
+        0.8220462024058847
+    ],
+    "dog+dalmatian": [
+        "LS",
+        0.8212036875088105
+    ],
+    "cranberry+blueberry": [
+        "LS",
+        0.8204705641700349
+    ],
+    "cloak+cape": [
+        "LS",
+        0.8189166685732234
+    ],
+    "canoe+boat": [
+        "LS",
+        0.814336074970128
+    ],
+    "cabbage+broccoli": [
+        "LS",
+        0.8114112451156338
+    ],
+    "dress+blouse": [
+        "LS",
+        0.810699200647184
+    ],
+    "snowsuit+loincloth": [
+        "LS",
+        0.8096886702860174
+    ],
+    "stingray+otter": [
+        "LS",
+        0.8092944732402475
+    ],
+    "elbow+arm": [
+        "LS",
+        0.8092375790789677
+    ],
+    "goblet+glass": [
+        "LS",
+        0.8070367194714543
+    ],
+    "cabbage+asparagus": [
+        "LS",
+        0.8058435214872927
+    ],
+    "coyote+cougar": [
+        "LS",
+        0.805306668902298
+    ],
+    "cantaloupe+banana": [
+        "LS",
+        0.8031426492996334
+    ],
+    "broccoli+bok_choy": [
+        "LS",
+        0.802225248101149
+    ],
+    "peach+cantaloupe": [
+        "LS",
+        0.7998179553724946
+    ],
+    "lavender+dandelion": [
+        "LS",
+        0.799636222895654
+    ],
+    "cantaloupe+avocado": [
+        "LS",
+        0.7989044017934815
+    ],
+    "meat+casserole": [
+        "LS",
+        0.7985046989975261
+    ],
+    "broccoli+asparagus": [
+        "LS",
+        0.7981361388458634
+    ],
+    "cranberry+berry": [
+        "LS",
+        0.7974101993229024
+    ],
+    "candy_bar+candy": [
+        "LS",
+        0.7965977451520879
+    ],
+    "blackberry+berry": [
+        "LS",
+        0.7940724201032654
+    ],
+    "scone+meat": [
+        "LS",
+        0.7939925251011062
+    ],
+    "seatbelt+pencil": [
+        "HD",
+        -0.12158587001929161
+    ],
+    "tricycle+pencil": [
+        "HD",
+        -0.07375403783242152
+    ],
+    "pencil+drink": [
+        "HD",
+        -0.07292069237029399
+    ],
+    "pencil+ambulance": [
+        "HD",
+        -0.07150797207007868
+    ],
+    "seatbelt+dreidel": [
+        "HD",
+        -0.06780870082656891
+    ],
+    "squirt_gun+jet": [
+        "HD",
+        -0.05950443582532609
+    ],
+    "poppy+penholder": [
+        "HD",
+        -0.05919984556084294
+    ],
+    "pencil+ferry": [
+        "HD",
+        -0.059081135966513716
+    ],
+    "crown+airboat": [
+        "HD",
+        -0.05803887692434669
+    ],
+    "pasta+mitten": [
+        "HD",
+        -0.053715093298201934
+    ],
+    "sea_urchin+cordon_bleu": [
+        "HD",
+        -0.05336859484537601
+    ],
+    "wok+pencil": [
+        "HD",
+        -0.04757387300855974
+    ],
+    "lingerie+coop": [
+        "HD",
+        -0.04646562972586188
+    ],
+    "seatbelt+belt_buckle": [
+        "HD",
+        -0.046216917635538056
+    ],
+    "reindeer+poppy": [
+        "HD",
+        -0.04563665636609315
+    ],
+    "letter_opener+cordon_bleu": [
+        "HD",
+        -0.04483863424959873
+    ],
+    "sweater+salami": [
+        "HD",
+        -0.044775357349527374
+    ],
+    "scuba+pencil": [
+        "HD",
+        -0.04363343672114274
+    ],
+    "pencil+airboat": [
+        "HD",
+        -0.042403976249549634
+    ],
+    "raccoon+flask": [
+        "HD",
+        -0.04223903905268132
+    ],
+    "rickshaw+dreidel": [
+        "HD",
+        -0.04032369249141586
+    ],
+    "salami+headscarf": [
+        "HD",
+        -0.03987893223539378
+    ],
+    "poppy+cilantro": [
+        "HD",
+        -0.039327762428719854
+    ],
+    "vending_machine+hippopotamus": [
+        "HD",
+        -0.0392256440209488
+    ],
+    "cordon_bleu+brake": [
+        "HD",
+        -0.039204359082092285
+    ],
+    "poppy+ferry": [
+        "HD",
+        -0.03890183225185605
+    ],
+    "underwear+airboat": [
+        "HD",
+        -0.03855179531771067
+    ],
+    "tostada+mustache": [
+        "HD",
+        -0.038324081787782974
+    ],
+    "tape+pencil": [
+        "HD",
+        -0.03806154787551954
+    ],
+    "cordon_bleu+car_seat": [
+        "HD",
+        -0.03786120146985436
+    ],
+    "snorkel+pencil": [
+        "HD",
+        -0.036538763421260584
+    ],
+    "cordon_bleu+ambulance": [
+        "HD",
+        -0.034570208891295334
+    ],
+    "squirrel+seatbelt": [
+        "HD",
+        -0.03419165715190033
+    ],
+    "spaghetti+kitten": [
+        "HD",
+        -0.03342549661872544
+    ],
+    "poppy+hand": [
+        "HD",
+        -0.033331744007859605
+    ],
+    "wetsuit+boar": [
+        "HD",
+        -0.032647639926942404
+    ],
+    "kettle+hip": [
+        "HD",
+        -0.0322439234372427
+    ],
+    "engine+cordon_bleu": [
+        "HD",
+        -0.03142050988380997
+    ],
+    "poppy+dip": [
+        "HD",
+        -0.03071920575636327
+    ],
+    "pencil+humvee": [
+        "HD",
+        -0.030312100918169518
+    ],
+    "wetsuit+crown": [
+        "LD",
+        -0.028634503180206144
+    ],
+    "gumdrop+cordon_bleu": [
+        "LD",
+        -0.026637505716031996
+    ],
+    "soy_sauce+omelet": [
+        "LD",
+        -0.020116148551774356
+    ],
+    "teacup+bucket": [
+        "LD",
+        -0.015358767160827852
+    ],
+    "wetsuit+armor": [
+        "LD",
+        -0.015140823011065719
+    ],
+    "soy_sauce+cordon_bleu": [
+        "LD",
+        -0.014644878034747687
+    ],
+    "roll+cordon_bleu": [
+        "LD",
+        -0.005165264355343986
+    ],
+    "salami+lollipop": [
+        "LD",
+        -0.004242969725268177
+    ],
+    "sugar_cube+cordon_bleu": [
+        "LD",
+        -0.0034227415922318595
+    ],
+    "poppy+grapevine": [
+        "LD",
+        -0.0029576768207889557
+    ],
+    "tortilla+cordon_bleu": [
+        "LD",
+        -0.0019664883151281243
+    ],
+    "guacamole+cordon_bleu": [
+        "LD",
+        -0.0014670774524347101
+    ],
+    "tostada+salami": [
+        "LD",
+        -0.0010290729645126907
+    ],
+    "seafood+hamburger": [
+        "LD",
+        -0.0010181704283287528
+    ],
+    "pasta+caviar": [
+        "LD",
+        -0.0009362969191116531
+    ],
+    "hubcap+filter": [
+        "LD",
+        0.0005120985120166903
+    ],
+    "tostada+cordon_bleu": [
+        "LD",
+        0.0024260992104593627
+    ],
+    "teacup+chalice": [
+        "LD",
+        0.0026419902051243397
+    ],
+    "wrench+magnet": [
+        "LD",
+        0.0029404385048909403
+    ],
+    "seatbelt+beanie": [
+        "LD",
+        0.0031211230602496767
+    ],
+    "spaghetti+seafood": [
+        "LD",
+        0.004622686316110081
+    ],
+    "taffy+cordon_bleu": [
+        "LD",
+        0.006980120700525283
+    ],
+    "jellyfish+blowfish": [
+        "LD",
+        0.007031103470138265
+    ],
+    "maple_syrup+lasagna": [
+        "LD",
+        0.008870677922355805
+    ],
+    "seatbelt+hubcap": [
+        "LD",
+        0.009027417123956884
+    ],
+    "salami+pesto": [
+        "LD",
+        0.011226980350861476
+    ],
+    "pasta+fondue": [
+        "LD",
+        0.011279704709561586
+    ],
+    "peanut_butter+cordon_bleu": [
+        "LD",
+        0.011913769149426625
+    ],
+    "jetski+airboat": [
+        "LD",
+        0.01204930488243805
+    ],
+    "spaghetti+butter": [
+        "LD",
+        0.01236262687616802
+    ],
+    "lingerie+fishnet_stockings": [
+        "LD",
+        0.0128709447106473
+    ],
+    "sauerkraut+chili": [
+        "LD",
+        0.013040766859518656
+    ],
+    "sauerkraut+dip": [
+        "LD",
+        0.013488846938276032
+    ],
+    "worm+raccoon": [
+        "LD",
+        0.014676092754060182
+    ],
+    "spaghetti+dough": [
+        "LD",
+        0.014932895293551534
+    ],
+    "spaghetti+salami": [
+        "LD",
+        0.015614000088218661
+    ],
+    "spaghetti+dip": [
+        "LD",
+        0.016275756789647298
+    ],
+    "mongoose+jellyfish": [
+        "LD",
+        0.01642105911422377
+    ],
+    "trunk+briefcase": [
+        "LD",
+        0.017959978640028743
+    ],
+    "taxi+police_car": [
+        "LD",
+        0.018568483378783644
+    ]
+}

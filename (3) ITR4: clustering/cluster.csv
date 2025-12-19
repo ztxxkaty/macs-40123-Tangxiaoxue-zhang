@@ -1,0 +1,1855 @@
+Word,Bottom-up Category (Human Raters),Top-down Category (WordNet),Top-down Category (manual selection),cluster
+cruise ship,,vehicle,vehicle,0
+roller coaster,,,,0
+subway,vehicle,,vehicle,0
+diving board,,,,0
+skateboard,sports equipment,"container, vehicle","toy, vehicle, sports equipment",0
+bungee,"tool, sports equipment",,,0
+oar,,,sports equipment,0
+kite,toy,toy,toy,0
+rollerblade,sports equipment,sports equipment,sports equipment,0
+trampoline,sports equipment,sports equipment,sports equipment,0
+crane,,,,0
+raft,,,vehicle,0
+boat,,vehicle,vehicle,0
+bobsled,sports equipment,vehicle,sports equipment,0
+buoy,,,,0
+ski boots,sports equipment,,"sports equipment, clothing",0
+quad,vehicle,,vehicle,0
+railing,,,,0
+blimp,,vehicle,,0
+canoe,,vehicle,vehicle,0
+guardrail,,,,0
+seaplane,,vehicle,vehicle,0
+swimming pool,,,container,0
+jet,,vehicle,vehicle,0
+jetski,,,vehicle,0
+gondola,,vehicle,vehicle,0
+ship,,vehicle,vehicle,0
+springboard,,,sports equipment,0
+scaffolding,,,,0
+scaffold,,,,0
+tugboat,,vehicle,vehicle,0
+mast,,,,0
+sailboat,,vehicle,vehicle,0
+parachute,,,,0
+sail,,,,0
+rudder,,,,0
+kayak,,vehicle,vehicle,0
+paddle,,,sports equipment,0
+coaster,home decor,,home decor,0
+sled,sports equipment,vehicle,"vehicle, sports equipment",0
+ski,sports equipment,,sports equipment,0
+scuba,,,sports equipment,0
+speedboat,,vehicle,vehicle,0
+hovercraft,,vehicle,vehicle,0
+ferris wheel,,,,0
+airboat,,,vehicle,0
+aircraft carrier,,vehicle,vehicle,0
+anchor,,,,0
+porthole,,,,0
+airplane,vehicle,vehicle,vehicle,0
+helicopter,,vehicle,vehicle,0
+yacht,,vehicle,vehicle,0
+fishing pole,,,,0
+space shuttle,,vehicle,vehicle,0
+wreck,,vehicle,,0
+spacesuit,,clothing,clothing,0
+ferry,,vehicle,vehicle,0
+snowmobile,vehicle,"container, vehicle",vehicle,0
+snowshoe,,,"sports equipment, clothing",0
+chute,,,,0
+snorkel,,,sports equipment,0
+propeller,,,,0
+surfboard,sports equipment,,sports equipment,0
+wing,,,,0
+snowboard,sports equipment,,sports equipment,0
+float,,,,0
+spark plug,part of car,,part of car,1
+unicycle,vehicle,"container, vehicle",vehicle,1
+brake,part of car,,part of car,1
+seatbelt,,clothing,part of car,1
+sewage,,,,1
+humvee,vehicle,vehicle,vehicle,1
+gravel,,,,1
+charcoal,,,,1
+headlamp,,,,1
+carriage,vehicle,"container, vehicle",vehicle,1
+jackhammer,,tool,"electronic device, tool",1
+turbine,,,,1
+cart,vehicle,"container, vehicle",vehicle,1
+speedometer,part of car,,part of car,1
+ice,"food, dessert",,,1
+bike,vehicle,"container, vehicle",vehicle,1
+hydrant,,,,1
+steering wheel,part of car,,part of car,1
+iron,,,electronic device,1
+icicle,,,,1
+hubcap,part of car,,part of car,1
+coal,,,,1
+cloud,,,,1
+tile,,,,1
+tractor,,"container, vehicle",vehicle,1
+minivan,vehicle,"container, vehicle",vehicle,1
+traffic light,,,,1
+brick,,,,1
+centrifuge,,,electronic device,1
+trailer,,"container, vehicle",,1
+train,vehicle,,vehicle,1
+snow,,,,1
+grille,part of car,,part of car,1
+snowplow,vehicle,"container, vehicle",vehicle,1
+coil,tool,,,1
+blower,tool,,"electronic device, tool",1
+gutter,,,,1
+chimney,,,,1
+tricycle,toy,"container, vehicle",vehicle,1
+sidecar,,,,1
+cement mixer,,,,1
+stalagmite,,,,1
+trolley,vehicle,"container, vehicle",vehicle,1
+handlebar,,,,1
+truck,vehicle,"container, vehicle",vehicle,1
+sink,,,,1
+station wagon,vehicle,"container, vehicle",vehicle,1
+grate,,,,1
+valve,,,,1
+engine,part of car,,part of car,1
+sunroof,part of car,,part of car,1
+honeycomb,,,,1
+puddle,,,,1
+windshield wiper,part of car,,part of car,1
+windshield,part of car,,part of car,1
+gasket,part of car,,part of car,1
+pedal,,,part of car,1
+pump,,,,1
+bus,vehicle,,vehicle,1
+mud,,,,1
+headrest,part of car,,part of car,1
+wheelchair,medical equipment,furniture,"medical equipment, vehicle",1
+duct,,,,1
+wheel,part of car,,part of car,1
+furnace,,,,1
+exhaust pipe,part of car,,part of car,1
+pothole,,,,1
+license plate,part of car,,part of car,1
+lava,,,,1
+lawnmower,,tool,,1
+pipe,,,,1
+pipe,,,,1
+air pump,,,tool,1
+airbag,part of car,container,part of car,1
+motorcycle,vehicle,"container, vehicle",vehicle,1
+vacuum,,,"electronic device, tool",1
+fire hydrant,,,,1
+police car,vehicle,"container, vehicle",vehicle,1
+taillight,part of car,,part of car,1
+ambulance,,"container, vehicle",vehicle,1
+forklift,,"container, vehicle",vehicle,1
+tank,container,container,container,1
+french horn,musical instrument,musical instrument,musical instrument,1
+camper,vehicle,"container, vehicle",vehicle,1
+filter,part of car,,,1
+taxi,vehicle,"container, vehicle",vehicle,1
+radiator,,,,1
+drain,,,,1
+gearshift,part of car,,part of car,1
+golf cart,vehicle,"container, sports equipment, vehicle",vehicle,1
+school bus,vehicle,,vehicle,1
+car door,part of car,,part of car,1
+wagon,vehicle,"container, vehicle",vehicle,1
+car seat,part of car,,part of car,1
+scooter,"vehicle, toy","container, vehicle","toy, vehicle",1
+buggy,vehicle,,vehicle,1
+granite,,,,1
+hose,,,tool,1
+vent,,,,1
+headlight,part of car,,part of car,1
+manhole,,,,1
+jeep,vehicle,"container, vehicle",vehicle,1
+van,vehicle,"container, vehicle",vehicle,1
+sand,,,,1
+rust,,,,1
+car,vehicle,"container, vehicle",vehicle,1
+stroller,,"container, vehicle",vehicle,1
+rearview mirror,part of car,,part of car,1
+generator,,,electronic device,1
+limousine,vehicle,"container, vehicle",vehicle,1
+riser,,,,1
+rock,,,,1
+dirt bike,vehicle,"container, vehicle",vehicle,1
+dashboard,part of car,,part of car,1
+waterwheel,,,,1
+bumper,part of car,,part of car,1
+go-kart,,"container, vehicle",vehicle,1
+watering can,,container,"container, tool",1
+parking meter,,,,1
+water fountain,,,,1
+water filter,kitchen appliance,,kitchen appliance,1
+roof rack,,,part of car,1
+spout,,,,1
+sticker,,,,2
+squeegee,,,tool,2
+swab,,,medical equipment,2
+nail polish,,,,2
+sweeper,,,tool,2
+sponge,,,,2
+chalkboard,,,,2
+glue,,,office supply,2
+dishrag,,,,2
+gel,,,,2
+rag,,,,2
+duct tape,,,,2
+gauze,medical equipment,,medical equipment,2
+duster,,,tool,2
+dustpan,,container,"container, tool",2
+deodorant,,,,2
+pen,,,"office supply, tool",2
+powder,,,,2
+eraser,office supply,,office supply,2
+eyeliner,,,,2
+perfume,,,,2
+fountain pen,,,"office supply, tool",2
+polisher,tool,tool,tool,2
+foam,,,,2
+flypaper,,,,2
+pencil,,,"office supply, tool",2
+denture,,,,2
+sandpaper,tool,,tool,2
+paper towel,,,,2
+handprint,,,,2
+soap,,,,2
+clay,,,,2
+slime,toy,,,2
+hairspray,,,,2
+skin,body part,body part,body part,2
+silicone,,,,2
+comb,,,,2
+gumball,,food,food,2
+gum,,food,food,2
+paint,,,,2
+shoe polish,,,,2
+paintbrush,,,tool,2
+palette,,,,2
+shaving cream,,,,2
+crayon,,,toy,2
+cream,,,,2
+graffiti,,decoration,,2
+laundry basket,,container,,2
+chalk,,,,2
+highlighter,office supply,,office supply,2
+floss,,,,2
+lip balm,,,,2
+toothbrush,,,,2
+lipstick,,,,2
+wrapping paper,,,,2
+wax,,,,2
+makeup,,,,2
+wax paper,,,,2
+lip gloss,,,,2
+backscratcher,tool,,tool,2
+brush,,,tool,2
+mold,,container,container,2
+tattoo,,decoration,,2
+mold,,,,2
+toothpaste,,,,2
+inhaler,medical equipment,container,medical equipment,2
+ink,office supply,,office supply,2
+towel,,,,2
+binder,office supply,,office supply,2
+mascara,,,,2
+trowel,,tool,tool,2
+mop,,,tool,2
+wallpaper,home decor,,home decor,2
+navel,body part,,body part,3
+sock,clothing,clothing,clothing,3
+jewel,,decoration,,3
+bead,,decoration,,3
+quilt,,,,3
+jewelry,,decoration,,3
+spool,,,,3
+bracelet,,decoration,clothing accessory,3
+bracelet,,,"clothing, clothing accessory",3
+bow,,decoration,,3
+wetsuit,,clothing,"sports equipment, clothing",3
+collar,,,,3
+leggings,clothing,clothing,clothing,3
+spider web,,,,3
+badge,,,,3
+sequin,,decoration,,3
+necklace,,decoration,,3
+insole,,,clothing accessory,3
+bolo tie,clothing accessory,clothing,"clothing, clothing accessory",3
+shoelace,,,,3
+shoe,,,clothing,3
+clothespin,,,,3
+clothesline,,,,3
+knitting,,,,3
+garter,clothing accessory,,clothing,3
+corsage,,,clothing accessory,3
+windsock,,,,3
+sewing machine,,,electronic device,3
+sewing kit,,,,3
+clasp,,,,3
+slipper,,,clothing,3
+belt buckle,clothing accessory,,clothing accessory,3
+belt,clothing accessory,clothing,"clothing, clothing accessory",3
+braid,,,,3
+zipper,,,,3
+tab,,,,3
+earring,,decoration,clothing accessory,3
+velcro,,,,3
+anklet,,decoration,,3
+cufflink,clothing accessory,decoration,clothing accessory,3
+blindfold,,,,3
+thread,,,,3
+ring,,decoration,,3
+lanyard,,,clothing accessory,3
+tape,office supply,,office supply,3
+tape measure,tool,,tool,3
+loom,,,,3
+locket,,container,,3
+first-aid kit,medical equipment,,medical equipment,3
+suspenders,clothing accessory,clothing,"clothing, clothing accessory",3
+barrette,,,,3
+ruby,,decoration,,3
+button,clothing accessory,,clothing accessory,3
+diamond,,decoration,,3
+tapestry,home decor,decoration,home decor,3
+yarn,,,,3
+plaster cast,medical equipment,,medical equipment,3
+bandage,medical equipment,,medical equipment,3
+banner,,decoration,,3
+muff,clothing accessory,clothing,"clothing, clothing accessory",3
+moccasin,,,clothing,3
+ribbon,,,,3
+rosary,,,,3
+washboard,,,,3
+stockings,clothing,clothing,clothing,3
+curling iron,,,"electronic device, tool",3
+gem,,,,3
+tinsel,,,,3
+flip-flop,,,clothing,3
+sandal,,,clothing,3
+mitten,,clothing,"clothing, clothing accessory",3
+brooch,,decoration,clothing accessory,3
+flatiron,,,,3
+gold,,,,3
+napkin,,,,3
+sickle,,tool,tool,4
+arrow,weapon,weapon,weapon,4
+shears,,tool,tool,4
+doll,toy,toy,toy,4
+trident,"tool, weapon",weapon,"weapon, tool",4
+corkscrew,kitchen tool,tool,"kitchen tool, tool",4
+robot,toy,,toy,4
+sheath,,,,4
+arm,body part,body part,body part,4
+bib,,,,4
+elbow,body part,body part,body part,4
+guillotine,,,,4
+shovel,tool,tool,tool,4
+penholder,office supply,,,4
+pacifier,,,,4
+pencil sharpener,office supply,,"office supply, tool",4
+grinder,kitchen tool,,"kitchen tool, tool",4
+electric chair,,,electronic device,4
+girl,,,,4
+rocking horse,toy,toy,toy,4
+razor,,tool,tool,4
+glove,clothing,clothing,"clothing, clothing accessory",4
+baton,weapon,,weapon,4
+scalpel,,tool,"medical equipment, weapon, tool",4
+scarecrow,,,home decor,4
+sandcastle,,,,4
+sandbox,,toy,,4
+balloon,,toy,toy,4
+razor blade,,tool,weapon,4
+mallet,tool,tool,tool,4
+dagger,weapon,weapon,weapon,4
+crowbar,tool,,"weapon, tool",4
+dumbbell,,sports equipment,sports equipment,4
+wedge,tool,,tool,4
+crossbow,weapon,weapon,weapon,4
+knife,kitchen tool,tool,"weapon, kitchen tool, tool",4
+whip,weapon,,weapon,4
+quill,,,tool,4
+scraper,tool,tool,tool,4
+knee,body part,body part,body part,4
+whoopee cushion,toy,,toy,4
+screw,tool,,,4
+screwdriver,tool,tool,tool,4
+baby,,,,4
+axe,tool,tool,"weapon, tool",4
+tweezers,,tool,"medical equipment, tool",4
+saw,tool,tool,tool,4
+seesaw,,toy,,4
+rollerskate,sports equipment,sports equipment,sports equipment,4
+barbell,,sports equipment,sports equipment,4
+machete,weapon,weapon,weapon,4
+scissors,office supply,tool,"office supply, weapon, tool",4
+hip,body part,body part,body part,4
+meat grinder,,,,4
+stapler,office supply,,office supply,4
+pogo stick,toy,toy,toy,4
+nail clippers,,,tool,4
+broom,,,tool,4
+hula hoop,toy,,toy,4
+chainsaw,tool,tool,"electronic device, weapon, tool",4
+piggy bank,,container,container,4
+brass knuckles,weapon,weapon,weapon,4
+finger,body part,body part,body part,4
+wrench,tool,tool,tool,4
+fork,,,tool,4
+splinter,,,,4
+neck,body part,body part,body part,4
+boy,,,,4
+figurine,,,home decor,4
+spear,weapon,weapon,weapon,4
+spatula,kitchen tool,kitchen utensil,"kitchen tool, tool",4
+chest,body part,body part,body part,4
+knitting needle,,,,4
+tongs,kitchen tool,,"kitchen tool, tool",4
+tongue,body part,body part,body part,4
+pocketknife,tool,tool,"weapon, tool",4
+leg,body part,body part,body part,4
+nail,,,,4
+stick,,,,4
+pinwheel,toy,toy,"home decor, toy",4
+sword,weapon,weapon,weapon,4
+hoe,,tool,tool,4
+pitchfork,,tool,"weapon, tool",4
+mouth,body part,body part,body part,4
+cane,medical equipment,,medical equipment,4
+stump,,,,4
+teddy bear,toy,toy,toy,4
+flyswatter,tool,,tool,4
+hopscotch,,,,4
+ankle,body part,body part,body part,4
+wrist,body part,body part,body part,4
+playpen,,,,4
+hatchet,tool,tool,,4
+music box,,musical instrument,"electronic device, toy",4
+carousel,,,,4
+stomach,body part,body part,body part,4
+pliers,tool,tool,tool,4
+stirrup,,,,4
+pincushion,,,,4
+stiletto,,,clothing,4
+thumb,body part,body part,body part,4
+horseshoe,,,,4
+tooth,body part,body part,body part,4
+toe,body part,body part,body part,4
+slide,,toy,,4
+clipper,,tool,tool,4
+clipper,,tool,,4
+torso,body part,body part,body part,4
+chin,body part,body part,body part,4
+slicer,kitchen appliance,,"electronic device, kitchen appliance",4
+sledgehammer,tool,tool,tool,4
+pickax,tool,tool,"weapon, tool",4
+iceskate,sports equipment,sports equipment,sports equipment,4
+nutcracker,kitchen tool,,"kitchen tool, tool",4
+toy,,,toy,4
+bone,body part,body part,body part,4
+dollhouse,toy,toy,toy,4
+bolt,,,,4
+train set,toy,toy,toy,4
+skewer,kitchen tool,,kitchen tool,4
+wooden leg,,,,4
+anvil,tool,,tool,4
+poster,,,home decor,4
+skeleton,,body part,body part,4
+knob,,,,4
+wire cutters,tool,tool,tool,4
+sling,medical equipment,,medical equipment,4
+cleaver,kitchen tool,tool,"weapon, kitchen tool, tool",4
+skull,body part,body part,body part,4
+boomerang,"toy, weapon",weapon,"weapon, toy",4
+snowsuit,clothing,clothing,clothing,4
+bow,weapon,weapon,weapon,4
+chisel,tool,tool,tool,4
+snowman,,,,4
+needle,,,tool,4
+chopsticks,,,tool,4
+cleat,sports equipment,,sports equipment,4
+bottle opener,kitchen tool,tool,"kitchen tool, tool",4
+icepick,"tool, kitchen tool",tool,"weapon, kitchen tool, tool",4
+handcuff,,,,4
+lego,toy,toy,toy,4
+hammer,tool,tool,"weapon, tool",4
+nose,body part,body part,body part,4
+boot,,,clothing,4
+noose,,,,4
+hand,body part,body part,body part,4
+altar,,,,5
+gallows,,,,5
+exerciser,,sports equipment,sports equipment,5
+flagpole,,,,5
+rickshaw,vehicle,"container, vehicle",vehicle,5
+balance beam,,sports equipment,sports equipment,5
+flag,sports equipment,decoration,,5
+woman,,,,5
+face,body part,body part,body part,5
+racehorse,animal,animal,,5
+fencepost,,,,5
+puppet,toy,toy,toy,5
+gift,,,,5
+gavel,,tool,tool,5
+pulpit,,,,5
+foot,body part,body part,body part,5
+gargoyle,,decoration,,5
+doorknocker,,,home decor,5
+pony,animal,animal,animal,5
+crown,,clothing,clothing,5
+weather vane,,,home decor,5
+bench,furniture,furniture,furniture,5
+gravestone,,,,5
+turnstile,,,,5
+shoulder,body part,body part,body part,5
+blinder,,,,5
+treasure,,,,5
+roadsweeper,vehicle,,vehicle,5
+hairbrush,,,,5
+medal,,,,5
+totem pole,,decoration,,5
+boulder,,,,5
+chariot,vehicle,"container, vehicle",vehicle,5
+chaps,clothing,clothing,clothing,5
+napkin ring,,,,5
+statue,,,home decor,5
+stilt,toy,,toy,5
+throne,,furniture,furniture,5
+straightjacket,,clothing,clothing,5
+horse,animal,animal,animal,5
+mouthpiece,sports equipment,sports equipment,sports equipment,5
+money,,,,5
+swing,,toy,,5
+hobbyhorse,toy,,toy,5
+cross,,,,5
+man,,,,5
+treadmill,,,"electronic device, sports equipment",5
+walker,,,,5
+crucifix,,decoration,,5
+walker,medical equipment,,medical equipment,5
+jump rope,,,sports equipment,5
+crutch,medical equipment,,medical equipment,5
+saddle,sports equipment,,sports equipment,5
+baton,sports equipment,,sports equipment,5
+honey,food,food,food,6
+fruit,food,,"food, fruit",6
+coconut,fruit,fruit,"food, fruit",6
+nut,food,fruit,food,6
+juice,drink,food,drink,6
+chickpea,food,vegetable,"food, vegetable",6
+soy sauce,,food,food,6
+fig,fruit,fruit,"food, fruit",6
+cherry,fruit,fruit,"food, fruit",6
+pomegranate,fruit,fruit,"food, fruit",6
+peach,fruit,fruit,"food, fruit",6
+melon,fruit,fruit,"food, fruit",6
+walnut,,fruit,food,6
+peanut,food,fruit,food,6
+sweet potato,vegetable,vegetable,"food, vegetable",6
+star fruit,fruit,fruit,"food, fruit",6
+lime,fruit,fruit,"food, fruit",6
+lemon,fruit,fruit,"food, fruit",6
+plum,fruit,fruit,"food, fruit",6
+cashew,,fruit,food,6
+macadamia,,fruit,food,6
+banana,fruit,fruit,"food, fruit",6
+almond,,fruit,food,6
+watermelon,fruit,fruit,"food, fruit",6
+strawberry,fruit,fruit,"food, fruit",6
+cantaloupe,fruit,fruit,"food, fruit",6
+pea,vegetable,fruit,"food, vegetable",6
+pistachio,,fruit,food,6
+rice,food,food,food,6
+pineapple,fruit,fruit,"food, fruit",6
+pear,fruit,fruit,"food, fruit",6
+papaya,fruit,fruit,"food, fruit",6
+raspberry,fruit,fruit,"food, fruit",6
+berry,fruit,fruit,"food, fruit",6
+kiwi,fruit,fruit,"food, fruit",6
+wheat,food,food,food,6
+avocado,"food, fruit",fruit,"food, fruit",6
+peeler,kitchen tool,,"kitchen tool, tool",6
+grapevine,plant,plant,plant,6
+jam,,food,food,6
+grape,fruit,fruit,"food, fruit",6
+cranberry,fruit,fruit,"food, fruit",6
+pumpkin,vegetable,vegetable,"food, vegetable",6
+beet,vegetable,vegetable,"food, vegetable",6
+mango,fruit,fruit,"food, fruit",6
+bean,food,fruit,food,6
+grain,food,fruit,food,6
+gourd,vegetable,fruit,"home decor, vegetable",6
+prune,fruit,fruit,"food, fruit",6
+corn,vegetable,plant,"plant, food, vegetable",6
+cornhusk,,,,6
+pecan,,fruit,food,6
+peppermint,,food,food,6
+olive,food,fruit,food,6
+potato,vegetable,"food, vegetable","food, vegetable",6
+apple,fruit,fruit,"food, fruit",6
+licorice,,food,food,6
+blueberry,fruit,fruit,"food, fruit",6
+orange,fruit,fruit,"food, fruit",6
+marmalade,food,food,food,6
+raisin,,fruit,"food, fruit",6
+grapefruit,fruit,fruit,"food, fruit",6
+blackberry,fruit,fruit,"food, fruit",6
+lightbulb,,,,7
+milk,drink,"food, beverage",drink,7
+hotplate,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",7
+grill,,,,7
+hairdryer,,,electronic device,7
+maple syrup,,food,food,7
+lamp,,furniture,"electronic device, home decor",7
+freezer,kitchen appliance,,"electronic device, kitchen appliance",7
+footbath,,container,container,7
+heater,,,,7
+juicer,kitchen appliance,,"electronic device, kitchen appliance",7
+icemaker,,kitchen appliance,"electronic device, kitchen appliance",7
+oven,kitchen appliance,kitchen appliance,kitchen appliance,7
+hot chocolate,vehicle,"food, beverage",drink,7
+ice cream,,"food, dessert","food, dessert",7
+hot tub,,container,container,7
+microwave,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",7
+latte,drink,"food, beverage",drink,7
+stove,,kitchen appliance,,7
+toilet paper,,,,7
+toilet,,,,7
+toaster oven,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",7
+toaster,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",7
+cooler,,,,7
+breakfast,,food,food,7
+refrigerator,kitchen appliance,,"electronic device, kitchen appliance",7
+thermostat,,,,7
+thermometer,,,,7
+tea,drink,"food, beverage",drink,7
+dishwashing liquid,,,,7
+dishwasher,kitchen appliance,,"electronic device, kitchen appliance",7
+syrup,,food,food,7
+eggnog,drink,"food, beverage",drink,7
+stove,kitchen appliance,,kitchen appliance,7
+sorbet,dessert,"food, dessert","food, dessert",7
+snack,food,food,food,7
+smoothie,drink,"food, beverage",drink,7
+smoke alarm,,,electronic device,7
+coffee,drink,"food, beverage",drink,7
+coffee bean,food,fruit,food,7
+coffee filter,,,,7
+coffeemaker,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",7
+showerhead,,,,7
+shower curtain,,,,7
+shower cap,,clothing,,7
+shower,,,,7
+cooker,kitchen appliance,kitchen utensil,"electronic device, container, kitchen appliance",7
+sprinkler,,,,7
+espresso,drink,"food, beverage",drink,7
+dryer,,,electronic device,7
+cord,,,,7
+water heater,,container,"electronic device, container",7
+wick,,,,7
+wine,drink,"food, beverage",drink,7
+washing machine,,,electronic device,7
+washcloth,,,,7
+bathmat,,,,7
+fireplace,home decor,,,7
+faucet,,,,7
+waffle iron,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",7
+bedpan,medical equipment,container,"medical equipment, container",7
+bathtub,,container,container,7
+air conditioner,,,electronic device,7
+yogurt,food,food,food,7
+flashlight,,,,7
+aloe,plant,plant,plant,8
+bamboo,plant,plant,plant,8
+stem,,,,8
+weed,plant,plant,plant,8
+lavender,,plant,plant,8
+christmas tree,,decoration,home decor,8
+compost,,,,8
+apple tree,plant,plant,plant,8
+acorn,,fruit,,8
+leaf,,,,8
+origami,,,,8
+orchid,,plant,plant,8
+clover,plant,plant,plant,8
+cocoon,,,,8
+mulch,,,,8
+wood,,,,8
+wreath,home decor,decoration,home decor,8
+oil,,,,8
+hay,,food,,8
+turf,,,,8
+hedge,plant,,plant,8
+tulip,,plant,plant,8
+ivy,plant,plant,plant,8
+birdhouse,,,home decor,8
+tree trunk,,,,8
+tree,plant,plant,plant,8
+incense,,,,8
+twig,,,,8
+bonsai,plant,plant,"home decor, plant",8
+bouquet,,decoration,,8
+marijuana,plant,plant,plant,8
+beehive,,,,8
+mulberry,fruit,fruit,"food, fruit",8
+vase,home decor,container,"home decor, container",8
+mint,,food,"plant, food",8
+mistletoe,,,,8
+thorn,,body part,,8
+terrarium,home decor,,"home decor, container",8
+bush,plant,plant,plant,8
+honeypot,container,plant,container,8
+cactus,plant,plant,plant,8
+lumber,,,,8
+tumbleweed,plant,plant,plant,8
+moss,plant,,plant,8
+sunflower,,plant,plant,8
+branch,,,,8
+bark,,,,8
+flower,plant,plant,plant,8
+root,,,,8
+potpourri,home decor,,home decor,8
+fungus,,,,8
+daisy,,plant,plant,8
+dandelion,,plant,plant,8
+petal,,,,8
+rose,,plant,plant,8
+rake,,tool,tool,8
+poppy,,plant,"plant, food",8
+emerald,,,,8
+seed,"food, plant",fruit,,8
+poinsettia,plant,plant,plant,8
+fern,plant,plant,plant,8
+palm tree,,plant,plant,8
+pinecone,,,home decor,8
+cornucopia,,,home decor,8
+plant,,,plant,8
+pine tree,,plant,plant,8
+grass,plant,plant,plant,8
+firewood,,,,8
+pine needle,,,,8
+dough,food,food,food,9
+cake mix,,food,"food, dessert",9
+pudding,dessert,"food, dessert","food, dessert",9
+egg,food,food,food,9
+roll,food,food,food,9
+ice-cream cone,,"food, dessert","food, dessert",9
+butter,food,food,food,9
+doily,home decor,,home decor,9
+peanut butter,food,food,food,9
+donut,dessert,,"food, dessert",9
+cake,dessert,,"food, dessert",9
+easter egg,food,food,food,9
+gingerbread man,,,food,9
+taffy,,food,food,9
+bread,food,food,food,9
+breadbox,,container,container,9
+breadstick,food,food,food,9
+eclair,,,"food, dessert",9
+pretzel,food,food,food,9
+cookie sheet,,kitchen utensil,,9
+birthday cake,"food, dessert",,"food, dessert",9
+yolk,,food,food,9
+fondue,food,food,food,9
+applesauce,food,food,food,9
+whipped cream,dessert,decoration,"food, dessert",9
+bagel,food,food,food,9
+baklava,"food, dessert",,"food, dessert",9
+wedding cake,dessert,,"food, dessert",9
+banana split,dessert,"food, dessert","food, dessert",9
+piecrust,,,food,9
+lollipop,,food,food,9
+biscuit,food,food,food,9
+popcorn,,food,food,9
+pickle,food,food,food,9
+popsicle,dessert,"food, dessert","food, dessert",9
+batter,food,food,food,9
+waffle,food,,food,9
+wafer,,,food,9
+jelly bean,,food,food,9
+dip,food,food,food,9
+fudge,dessert,food,"food, dessert",9
+marshmallow,food,food,food,9
+pepper mill,,,kitchen tool,9
+pie,"food, dessert",,"food, dessert",9
+fruitcake,dessert,,"food, dessert",9
+brownie,dessert,,"food, dessert",9
+chips,,food,food,9
+candy cane,,food,food,9
+pan,,kitchen utensil,container,9
+oatmeal,food,food,food,9
+crepe,food,,"food, dessert",9
+croissant,food,food,food,9
+caramel,,food,"food, dessert",9
+pancake,food,,food,9
+cream cheese,food,food,food,9
+muffin,food,food,"food, dessert",9
+flour,,food,food,9
+cupcake,dessert,,"food, dessert",9
+chocolate,dessert,,"food, dessert",9
+cereal,food,,food,9
+scone,food,food,food,9
+spam,food,food,food,9
+cheesecake,dessert,,"food, dessert",9
+parfait,dessert,"food, dessert","food, dessert",9
+granola,food,,food,9
+crumb,food,,food,9
+cotton candy,,food,food,9
+candy bar,,food,food,9
+cookie cutter,,kitchen utensil,,9
+gumdrop,,food,food,9
+candy,food,food,food,9
+cookie,food,,"food, dessert",9
+pastry,"food, dessert",,"food, dessert",9
+mousse,dessert,"food, dessert","food, dessert",9
+cracker,food,food,food,9
+grater,kitchen tool,kitchen utensil,"kitchen tool, tool",9
+shortbread,"food, dessert",,"food, dessert",9
+shaker,,container,container,10
+flask,container,container,container,10
+syringe,medical equipment,,"medical equipment, container",10
+eyedropper,,,medical equipment,10
+jar,container,container,container,10
+scoop,kitchen tool,container,"kitchen tool, tool",10
+sifter,kitchen tool,,kitchen tool,10
+ladle,kitchen tool,container,"kitchen tool, tool",10
+beaker,,container,container,10
+pill,,,,10
+jug,container,container,container,10
+juicer,kitchen tool,kitchen utensil,kitchen tool,10
+wine cooler,,container,container,10
+wine bottle,container,container,container,10
+wand,,,,10
+plunger,tool,tool,tool,10
+spoon,,container,"kitchen tool, tool",10
+keg,container,container,container,10
+vial,,container,"medical equipment, container",10
+water cooler,,,,10
+lid,,,,10
+teacup,,container,container,10
+blender,kitchen appliance,kitchen utensil,"electronic device, kitchen appliance",10
+sugar cube,,,food,10
+strainer,kitchen tool,,kitchen tool,10
+measuring cup,kitchen tool,container,"container, kitchen tool",10
+cap,,,,10
+cork,,,,10
+canister,container,container,container,10
+bottle,container,container,container,10
+bucket,container,container,container,10
+thermos,container,container,container,10
+ice cube,"food, dessert",,,10
+mixer,kitchen appliance,kitchen utensil,"electronic device, kitchen appliance",10
+spider,insect,animal,animal,11
+pigeon,bird,"animal, bird","animal, bird",11
+polar bear,animal,animal,animal,11
+rhinoceros,animal,animal,animal,11
+lion,animal,animal,animal,11
+seagull,bird,"animal, bird","animal, bird",11
+orangutan,animal,animal,animal,11
+otter,animal,animal,animal,11
+mole,animal,animal,animal,11
+wolf,animal,animal,animal,11
+leopard,animal,animal,animal,11
+peacock,bird,"animal, bird","animal, bird",11
+parrot,bird,"animal, bird","animal, bird",11
+worm,,animal,animal,11
+mouse,animal,animal,animal,11
+mongoose,animal,animal,animal,11
+owl,bird,"animal, bird","animal, bird",11
+platypus,animal,animal,animal,11
+monkey,animal,animal,animal,11
+moose,animal,animal,animal,11
+swan,bird,"animal, bird","animal, bird",11
+moth,insect,"animal, insect","animal, insect",11
+tarantula,,animal,animal,11
+reindeer,animal,animal,animal,11
+rattlesnake,,animal,animal,11
+lizard,,animal,animal,11
+penguin,"animal, bird","animal, bird","animal, bird",11
+praying mantis,insect,"animal, insect","animal, insect",11
+trap,,,,11
+possum,animal,animal,animal,11
+squirrel,animal,animal,animal,11
+toucan,bird,"animal, bird","animal, bird",11
+meerkat,animal,animal,animal,11
+porcupine,animal,animal,animal,11
+nest,,,,11
+snake,,animal,animal,11
+vulture,bird,"animal, bird","animal, bird",11
+panther,animal,animal,animal,11
+puffin,bird,"animal, bird","animal, bird",11
+panda,animal,animal,animal,11
+pheasant,bird,"animal, bird","animal, bird",11
+raccoon,animal,animal,animal,11
+toad,,,animal,11
+sloth,animal,animal,animal,11
+warthog,animal,animal,animal,11
+skunk,animal,animal,animal,11
+rat,,animal,animal,11
+tiger,animal,animal,animal,11
+wasp,insect,"animal, insect","animal, insect",11
+scorpion,"animal, insect",animal,animal,11
+tick,insect,animal,animal,11
+weasel,animal,animal,animal,11
+mosquito,insect,"animal, insect","animal, insect",11
+aardvark,animal,animal,animal,11
+butterfly,insect,"animal, insect","animal, insect",11
+grasshopper,insect,"animal, insect","animal, insect",11
+badger,animal,animal,animal,11
+gorilla,animal,animal,"animal, food",11
+gopher,animal,animal,animal,11
+goose,bird,"animal, bird","animal, bird, food",11
+hawk,bird,"animal, bird","animal, bird",11
+caterpillar,insect,animal,"animal, insect",11
+cockroach,insect,"animal, insect","animal, insect",11
+giraffe,animal,animal,animal,11
+cobra,,animal,animal,11
+gazelle,animal,animal,animal,11
+dragonfly,insect,"animal, insect","animal, insect",11
+kangaroo,animal,animal,animal,11
+duck,"animal, bird","animal, bird","animal, bird",11
+cockatoo,bird,"animal, bird","animal, bird",11
+cage,container,,container,11
+groundhog,animal,animal,animal,11
+iguana,,animal,animal,11
+coyote,animal,animal,animal,11
+hedgehog,animal,animal,animal,11
+hippopotamus,animal,animal,animal,11
+bear,animal,animal,animal,11
+cougar,animal,animal,animal,11
+beaver,animal,animal,animal,11
+bee,insect,"animal, insect","animal, insect",11
+hamster,animal,animal,animal,11
+cardinal,bird,"animal, bird","animal, bird",11
+beetle,insect,"animal, insect","animal, insect",11
+deer,animal,animal,animal,11
+hummingbird,bird,"animal, bird","animal, bird",11
+cat,animal,animal,animal,11
+bird,animal,animal,"animal, bird",11
+birdcage,,,"home decor, container",11
+duckling,bird,"animal, bird","animal, bird",11
+chipmunk,animal,animal,animal,11
+crow,bird,"animal, bird","animal, bird",11
+ladybug,insect,"animal, insect","animal, insect",11
+bug,insect,"animal, insect","animal, insect",11
+anteater,animal,animal,animal,11
+antelope,animal,animal,animal,11
+cheetah,animal,animal,animal,11
+fossil,,,,11
+fox,animal,animal,animal,11
+alligator,animal,animal,animal,11
+ant,insect,"animal, insect","animal, insect",11
+koala,animal,animal,animal,11
+elephant,animal,animal,animal,11
+chinchilla,animal,animal,animal,11
+fly,insect,"animal, insect","animal, insect",11
+earwig,insect,"animal, insect","animal, insect",11
+flamingo,bird,"animal, bird","animal, bird",11
+frog,,animal,animal,11
+feather,,,,11
+eagle,bird,"animal, bird","animal, bird",11
+rope,tool,,tool,12
+safety pin,,,,12
+hairpin,,,,12
+brace,medical equipment,,medical equipment,12
+roller,,,,12
+pulley,tool,,,12
+defibrillator,medical equipment,electronic device,"electronic device, medical equipment",12
+rubber band,office supply,,office supply,12
+switch,,,,12
+gyroscope,toy,,toy,12
+ruler,,,tool,12
+rack,furniture,,furniture,12
+power line,,,,12
+beer,,"food, beverage",drink,12
+latch,,,,12
+scale,,,,12
+sundae,dessert,"food, dessert","food, dessert",12
+nail file,,tool,tool,12
+fast food,food,food,food,12
+can opener,kitchen tool,tool,"kitchen tool, tool",12
+harness,,,,12
+vise,tool,,tool,12
+cushion,,,,12
+curb,,,,12
+fan,,,electronic device,12
+pole,,,,12
+handbrake,part of car,,part of car,12
+net,,,,12
+timer,kitchen tool,,kitchen tool,12
+fence,,,,12
+plug,,,,12
+outlet,,,,12
+handle,,,,12
+buckle,,,clothing accessory,12
+rim,part of car,,part of car,12
+tackle,,,,12
+doorstop,,,,12
+gate,,,,12
+peg,,,,12
+rattle,toy,toy,toy,12
+ratchet,tool,,tool,12
+pendulum,,,,12
+tee,,sports equipment,sports equipment,12
+ramp,,,,12
+telegraph,,,,12
+fuse,,,,12
+drill,tool,tool,"electronic device, tool",12
+bow,,,"clothing, clothing accessory",12
+drink,,,drink,12
+telephone pole,,,,12
+rain gauge,,,,12
+funnel,"tool, kitchen tool",,"kitchen tool, tool",12
+rack,furniture,,furniture,12
+gear,,,,12
+tack,office supply,,office supply,12
+burner,kitchen appliance,,kitchen appliance,12
+footprint,,,,12
+punch,office supply,tool,"office supply, tool",12
+padlock,,,,12
+block,,,,12
+triangle,musical instrument,musical instrument,musical instrument,12
+food processor,kitchen appliance,kitchen appliance,"electronic device, kitchen appliance",12
+pin,,,tool,12
+tool,,,tool,12
+football helmet,sports equipment,clothing,sports equipment,12
+cable,,,,12
+paperclip,office supply,,office supply,12
+doorhandle,,,,12
+revolving door,,,,12
+retainer,,,,12
+goalpost,sports equipment,,,12
+patch,clothing accessory,,clothing accessory,12
+button,,,,12
+reel,,,,12
+target,sports equipment,sports equipment,sports equipment,12
+sandbag,,container,container,12
+bracket,,,,12
+barrel,container,,container,12
+yo-yo,toy,toy,toy,12
+shoehorn,tool,,,12
+magnet,tool,,,12
+staple,office supply,,office supply,12
+megaphone,,,,12
+barbed wire,,,,12
+staple gun,tool,,tool,12
+metal detector,electronic device,,"electronic device, tool",12
+clock,,,,12
+shield,,,,12
+stamp,,tool,tool,12
+margarita,,"food, beverage",drink,12
+milkshake,"dessert, drink",,"drink, dessert",12
+hourglass,,,home decor,12
+knot,,,,12
+leash,,,,12
+champagne,drink,"food, beverage",drink,12
+ski pole,sports equipment,,sports equipment,12
+marker,,,tool,12
+steamroller,,vehicle,vehicle,12
+chain,tool,,tool,12
+ladder,tool,,tool,12
+lemonade,drink,"food, beverage",drink,12
+combination lock,,,,12
+centerpiece,home decor,decoration,home decor,12
+chicken wire,,,,12
+jack,tool,tool,tool,12
+spur,,,,12
+coffee table,furniture,furniture,furniture,12
+keyhole,,,,12
+cocktail,,"food, beverage",drink,12
+ski lift,,,,12
+shutter,,,,12
+stopwatch,,,sports equipment,12
+column,,,,12
+hinge,,,,12
+stake,,,,12
+mousetrap,,,,12
+string cheese,food,food,food,12
+helmet,,clothing,sports equipment,12
+wire,,,,12
+lock,,,,12
+lifesaver,,,,12
+key,,,,12
+mosquito net,,,,12
+streetlight,,,,12
+hole,,,,12
+lamppost,,,,12
+crank,tool,tool,tool,12
+yoke,,,,12
+hookah,,,,12
+soda,drink,"food, beverage",drink,12
+hook,,,,12
+hook,tool,,,12
+soda fountain,,,,12
+arch,,,,12
+log,,,,12
+strap,,,,12
+wrap,food,food,food,12
+plate,,,,13
+hash,food,food,food,13
+appetizer,food,food,food,13
+curry,food,food,food,13
+dish,,container,,13
+buffet,food,food,food,13
+dessert,food,food,"food, dessert",13
+coffin,,container,container,14
+backpack,,container,container,14
+toolbox,,container,container,14
+duffel bag,,container,container,14
+torch,,,,14
+lunchbox,,,container,14
+mailbox,container,container,container,14
+purse,clothing accessory,container,"container, clothing accessory",14
+sleeping bag,,container,,14
+teabag,,container,,14
+locker,,,container,14
+pillbox,,container,"medical equipment, container",14
+garbage truck,vehicle,"container, vehicle",vehicle,14
+garbage,,container,,14
+luggage,,container,container,14
+bubble wrap,,,,14
+pallet,,,,14
+dumpster,,container,container,14
+pocket,,container,container,14
+crate,container,container,container,14
+bin,container,container,container,14
+paperweight,office supply,,,14
+pocket watch,,,,14
+briefcase,,container,container,14
+hatbox,container,container,container,14
+hot-water bottle,,container,container,14
+hot-air balloon,drink,vehicle,vehicle,14
+hearse,vehicle,"container, vehicle",vehicle,14
+potholder,,,,14
+cardboard,,,,14
+water bottle,,container,container,14
+holster,,,,14
+sarcophagus,,container,container,14
+stretcher,medical equipment,,medical equipment,14
+trunk,container,,container,14
+basket,container,container,container,14
+ice pack,,container,medical equipment,14
+wallet,,container,container,14
+box,container,container,container,14
+paper bag,container,container,container,14
+paper,office supply,,office supply,14
+trashcan,,container,container,14
+tray,,container,,14
+plastic film,,,,14
+wheelbarrow,,"container, vehicle",container,14
+bag,,container,container,14
+bank,,container,container,14
+shredder,,,electronic device,14
+container,,,container,14
+dolly,,,,14
+shopping cart,,"container, vehicle",container,14
+chest,furniture,container,"furniture, container",14
+shopping basket,container,container,container,14
+envelope,office supply,container,office supply,14
+matchbox,container,container,container,14
+suitcase,,container,container,14
+landmine,weapon,,weapon,15
+lighter,,,tool,15
+flamethrower,weapon,weapon,weapon,15
+dynamite,,,weapon,15
+fire,,,,15
+firecracker,,,,15
+firetruck,,"container, vehicle",vehicle,15
+fireworks,,,,15
+solar panel,,,,15
+extinguisher,,,,15
+cannon,weapon,,weapon,15
+fire alarm,,,,15
+bulldozer,,"container, vehicle",vehicle,15
+blowtorch,tool,,"weapon, tool",15
+blowgun,weapon,,weapon,15
+rifle,weapon,weapon,weapon,15
+grenade,weapon,,weapon,15
+catapult,weapon,,weapon,15
+rocket,,,vehicle,15
+trigger,,,,15
+gun,weapon,weapon,weapon,15
+detonator,,,,15
+shell,,,,15
+hail,,,,15
+dart,,weapon,"weapon, sports equipment",15
+missile,weapon,"vehicle, weapon",weapon,15
+bazooka,weapon,,weapon,15
+cannonball,weapon,weapon,weapon,15
+squirt gun,toy,toy,toy,15
+revolver,weapon,weapon,weapon,15
+tank,,"container, vehicle",weapon,15
+bullet,,weapon,weapon,15
+remote control,electronic device,,electronic device,15
+slingshot,weapon,toy,"weapon, toy",15
+torpedo,weapon,,weapon,15
+submarine,,vehicle,vehicle,15
+bomb,weapon,,weapon,15
+machine gun,weapon,weapon,weapon,15
+armor,,,clothing,15
+bulletproof vest,,clothing,clothing,15
+brussels sprouts,vegetable,vegetable,"food, vegetable",16
+salad,food,food,food,16
+saffron,,food,food,16
+cucumber,vegetable,vegetable,"food, vegetable",16
+scallion,vegetable,vegetable,"food, vegetable",16
+spinach,vegetable,vegetable,"plant, food, vegetable",16
+radish,vegetable,vegetable,"food, vegetable",16
+chive,"food, vegetable",plant,"plant, food, vegetable",16
+cinnamon,,,food,16
+cilantro,,food,"plant, food, vegetable",16
+clove,,food,food,16
+broccoli,vegetable,plant,"plant, food, vegetable",16
+celery,vegetable,vegetable,"food, vegetable",16
+squash,vegetable,vegetable,"food, vegetable",16
+sprouts,"food, vegetable",,"food, vegetable",16
+eggplant,vegetable,vegetable,"food, vegetable",16
+rhubarb,vegetable,vegetable,"food, vegetable",16
+cabbage,vegetable,plant,"plant, food, vegetable",16
+carrot,vegetable,vegetable,"food, vegetable",16
+cauliflower,vegetable,vegetable,"food, vegetable",16
+zucchini,vegetable,vegetable,"food, vegetable",16
+leek,vegetable,plant,"plant, food, vegetable",16
+basil,,plant,"plant, food",16
+pesto,food,food,food,16
+mushroom,,,food,16
+mustard,,food,food,16
+pepper,kitchen tool,vegetable,"food, vegetable",16
+pepper,vegetable,food,food,16
+tomato,"vegetable, fruit",vegetable,"food, vegetable, fruit",16
+vegetable,food,,"food, vegetable",16
+lettuce,vegetable,vegetable,"plant, food, vegetable",16
+jalapeno,vegetable,vegetable,"food, vegetable",16
+bell pepper,vegetable,vegetable,"food, vegetable",16
+okra,vegetable,fruit,"food, vegetable",16
+asparagus,vegetable,vegetable,"plant, food, vegetable",16
+onion,"food, vegetable",,"food, vegetable",16
+orange rind,,,,16
+garlic,"food, vegetable",food,"food, vegetable",16
+ginger,,food,food,16
+parsley,,food,"plant, food, vegetable",16
+bok choy,vegetable,plant,"plant, food, vegetable",16
+kale,vegetable,plant,"plant, food, vegetable",16
+green beans,vegetable,vegetable,"food, vegetable",16
+artichoke,vegetable,vegetable,"plant, food, vegetable",16
+arugula,vegetable,plant,"plant, food, vegetable",16
+odometer,part of car,,part of car,17
+crayfish,,animal,"animal, food",17
+credit card,,,,17
+blowfish,,animal,animal,17
+walrus,animal,animal,animal,17
+mullet,,,,17
+scallop,,,"animal, food",17
+dolphin,,animal,animal,17
+road sign,,,,17
+mussel,,animal,"animal, food",17
+file,tool,tool,tool,17
+sardine,,,"animal, food",17
+turtle,animal,animal,animal,17
+swordfish,,animal,"animal, food",17
+tag,,,,17
+tadpole,,animal,animal,17
+notebook,office supply,,office supply,17
+notepad,office supply,,office supply,17
+octopus,,animal,"animal, food",17
+oyster,,animal,"animal, food",17
+sea urchin,,animal,animal,17
+calculator,,,,17
+seafood,food,,food,17
+vending machine,,,electronic device,17
+seahorse,,animal,animal,17
+whiteboard,office supply,,,17
+manatee,,animal,animal,17
+caviar,food,,food,17
+starfish,,animal,animal,17
+mail,,,,17
+maggot,,animal,animal,17
+clipboard,office supply,,office supply,17
+jellyfish,animal,animal,animal,17
+stamp,,,,17
+slot machine,,,electronic device,17
+clam,,animal,"animal, food",17
+slug,animal,animal,animal,17
+snail,animal,animal,animal,17
+christmas card,,,,17
+aquarium,,container,"home decor, container",17
+lobster,,animal,"animal, food",17
+slot,,,,17
+crab,,animal,"animal, food",17
+squid,,animal,"animal, food",17
+shrimp,,,"animal, food",17
+seal,animal,animal,animal,17
+board,,,,17
+card,,,,17
+shark,animal,animal,animal,17
+cash machine,,,electronic device,17
+cash register,,container,,17
+shell,,,,17
+coin,,,,17
+barnacle,,animal,animal,17
+letter opener,"tool, office supply",tool,tool,17
+coral,,animal,animal,17
+barcode,,,,17
+ballot box,,container,container,17
+catfish,,animal,"animal, food",17
+comic book,,,,17
+whale,,animal,animal,17
+stingray,,animal,animal,17
+seaweed,plant,,"plant, food",17
+lightning bug,insect,"animal, insect","animal, insect",17
+fishbowl,,container,container,17
+filing cabinet,,furniture,"furniture, container",17
+pelican,bird,"animal, bird","animal, bird",17
+pedometer,,,,17
+file,office supply,,office supply,17
+book,,,,17
+pearl,,decoration,,17
+fingerprint,,,,17
+flipper,,,sports equipment,17
+fish,,animal,"animal, food",17
+fishhook,,,,17
+folder,office supply,,office supply,17
+polygraph,,,electronic device,17
+bookmark,,,,17
+checkbook,,,,17
+breathalyzer,,,,17
+goldfish,,animal,animal,17
+abacus,,,home decor,17
+eel,,animal,"animal, food",17
+leech,animal,animal,animal,17
+thumbtack,office supply,,office supply,17
+bat,sports equipment,,"weapon, sports equipment",18
+puck,sports equipment,,sports equipment,18
+ball,toy,toy,"toy, sports equipment",18
+shuffleboard,,,,18
+beachball,toy,toy,"toy, sports equipment",18
+pitcher,,container,container,18
+chessboard,,,,18
+match,,,tool,18
+tennis ball,sports equipment,,sports equipment,18
+checkers,,,,18
+beanbag,furniture,container,furniture,18
+golf club,sports equipment,sports equipment,sports equipment,18
+scrabble,,,,18
+bat,animal,animal,animal,18
+pinball,,,electronic device,18
+home plate,,sports equipment,sports equipment,18
+baseball glove,sports equipment,sports equipment,sports equipment,18
+hockey stick,sports equipment,sports equipment,sports equipment,18
+baseball bat,sports equipment,sports equipment,"weapon, sports equipment",18
+baseball,sports equipment,sports equipment,sports equipment,18
+football,sports equipment,,sports equipment,18
+scoreboard,sports equipment,,,18
+mousepad,,,,18
+punching bag,sports equipment,,sports equipment,18
+frisbee,"sports equipment, toy",toy,"toy, sports equipment",18
+basketball,sports equipment,sports equipment,sports equipment,18
+basketball hoop,sports equipment,sports equipment,sports equipment,18
+ping-pong table,sports equipment,furniture,sports equipment,18
+racket,sports equipment,,sports equipment,18
+javelin,sports equipment,"sports equipment, weapon",sports equipment,18
+bowling ball,sports equipment,,sports equipment,18
+marble,toy,,toy,18
+backgammon,,,,18
+boxing gloves,sports equipment,sports equipment,sports equipment,18
+soccer ball,sports equipment,,sports equipment,18
+domino,,,,18
+board game,,,,18
+kneepad,,clothing,sports equipment,18
+pool table,sports equipment,furniture,,18
+trophy,,,,18
+snowball,,toy,,18
+dice,,,,18
+chess piece,,,,18
+volleyball,sports equipment,,sports equipment,18
+dreidel,toy,,toy,18
+face mask,sports equipment,,sports equipment,18
+dartboard,sports equipment,,sports equipment,18
+poker,,,tool,18
+roulette wheel,,,,18
+pennant,,,,18
+videogame,,,,18
+ticktacktoe,,,,18
+playing card,,,,18
+bowler hat,,clothing,clothing,18
+game,,,,18
+bubble,,,,19
+silverware,,,,19
+stained glass,,,home decor,19
+eggbeater,kitchen tool,kitchen utensil,"kitchen tool, tool",19
+chinaware,,,,19
+thimble,,container,,19
+kettle,"kitchen tool, kitchen appliance","container, kitchen utensil","container, kitchen tool",19
+whisk,kitchen tool,kitchen utensil,kitchen tool,19
+inkwell,,container,container,19
+coffee pot,kitchen appliance,"container, kitchen utensil",container,19
+pot,,"container, kitchen utensil",container,19
+shell,,,,19
+soldering iron,tool,tool,tool,19
+cigarette,,,,19
+cigarette butt,,,,19
+eggshell,,,,19
+punch,drink,"food, beverage",drink,19
+cigarette holder,,,,19
+wineglass,,container,container,19
+banana peel,,,,19
+confetti,,,,19
+cigar,,,,19
+ashtray,,container,container,19
+cup,container,container,container,19
+straw,,,,19
+sparkler,,,,19
+candle,home decor,,home decor,19
+candelabra,home decor,,home decor,19
+saucer,,,,19
+satellite dish,,,,19
+straw,,,,19
+can,container,container,container,19
+saltshaker,,container,container,19
+urn,container,container,container,19
+candlestick,home decor,,home decor,19
+urinal,,,,19
+oilcan,container,container,container,19
+swizzle stick,,,,19
+lantern,,,,19
+glass,,container,container,19
+rolling pin,kitchen tool,kitchen utensil,"kitchen tool, tool",19
+tupperware,container,,container,19
+birdbath,,container,"home decor, container",19
+chalice,,container,,19
+goblet,,container,container,19
+teapot,,"container, kitchen utensil",container,19
+crystal,,,,19
+aluminum foil,,,,19
+petri dish,,container,container,19
+bowl,,container,container,19
+test tube,,,container,19
+amber,,,,19
+paper plate,,,,19
+crystal ball,,,home decor,19
+mug,,container,container,19
+toothpick,,tool,,19
+crystal,,,,19
+polaroid,,,,20
+lens,,,,20
+eye,body part,body part,body part,20
+film,,,,20
+microscope,,,,20
+kaleidoscope,toy,toy,toy,20
+binoculars,,,,20
+eyepiece,,,,20
+sonogram,,,,20
+scanner,,electronic device,electronic device,20
+photograph,,,,20
+mirror,home decor,,home decor,20
+tripod,,,,20
+watch,,,clothing accessory,20
+glasses,,,clothing accessory,20
+blind,,,,20
+globe,,,home decor,20
+seismograph,,,,20
+painting,,,,20
+goggles,,,sports equipment,20
+frame,home decor,,home decor,20
+album,,,home decor,20
+magnifying glass,,,tool,20
+contact lens,,,,20
+compass,,,,20
+periscope,,,,20
+television,electronic device,,electronic device,20
+telescope,,,,20
+sundial,,,,20
+radar,,,,20
+webcam,,,electronic device,20
+satellite,,,,20
+projector,electronic device,,electronic device,20
+map,,,,20
+viewfinder,,,,20
+flashbulb,,,,20
+antenna,,,,20
+prism,,,,20
+screen,electronic device,,electronic device,20
+backdrop,,,,20
+penlight,,,"medical equipment, tool",20
+jigsaw puzzle,,,,20
+camera,,,electronic device,20
+screen,,,,20
+camera,electronic device,,,20
+camera lens,,,,20
+camcorder,,,electronic device,20
+magnifier,,,tool,20
+mouse,,electronic device,electronic device,20
+tiramisu,dessert,"food, dessert","food, dessert",21
+steak,food,,food,21
+toast,food,food,food,21
+tomato sauce,food,food,food,21
+tortellini,,,food,21
+tortilla,food,,food,21
+tostada,food,food,food,21
+bun,,,food,21
+burrito,food,food,food,21
+bologna,food,,food,21
+wok,,kitchen utensil,container,21
+tamale,food,food,food,21
+calamari,food,,food,21
+calzone,food,,food,21
+sushi,food,food,food,21
+stuffing,food,food,food,21
+stir fry,food,,food,21
+casserole,food,food,food,21
+stew,food,food,food,21
+bacon,food,,food,21
+taco,food,food,food,21
+cheese,food,food,"food, dessert",21
+lasagna,food,food,food,21
+macaroni,food,,food,21
+guacamole,food,food,food,21
+pita,food,food,food,21
+salami,,,food,21
+cutting board,kitchen tool,,,21
+sandwich,food,food,food,21
+sauce,,food,food,21
+sauerkraut,food,food,food,21
+sausage,,,food,21
+kebab,food,food,food,21
+crouton,food,food,food,21
+creme brulee,dessert,food,"food, dessert",21
+scrambled egg,food,food,food,21
+ketchup,,food,food,21
+cornmeal,food,food,food,21
+gyro,food,food,food,21
+cornbread,food,food,food,21
+omelet,food,food,food,21
+grits,food,,food,21
+nacho,food,food,food,21
+gravy,food,food,food,21
+patty,food,food,food,21
+pizza,food,food,food,21
+meatloaf,food,food,food,21
+meatball,food,food,food,21
+meat,food,,food,21
+potpie,food,food,food,21
+enchilada,food,food,food,21
+egg roll,food,food,food,21
+french fries,food,"food, vegetable",food,21
+quesadilla,food,food,food,21
+quiche,food,,food,21
+dumpling,food,,food,21
+cheeseburger,food,food,food,21
+mashed potato,food,"food, vegetable",food,21
+pepperoni,food,,food,21
+ravioli,food,,food,21
+hummus,food,food,food,21
+hotdog,food,food,food,21
+pasta,food,,food,21
+cordon bleu,food,,food,21
+flan,dessert,"food, dessert","food, dessert",21
+chili,food,food,food,21
+hamburger,food,food,food,21
+noodle,food,,food,21
+souffle,"food, dessert",food,"food, dessert",21
+soup,food,food,food,21
+chicken,,"animal, bird",animal,21
+chicken,"animal, bird",,food,21
+coleslaw,food,food,food,21
+lamb chop,,,food,21
+ham,food,,food,21
+spareribs,food,,food,21
+spaghetti,food,,food,21
+gramophone,,,,22
+mandolin,musical instrument,musical instrument,musical instrument,22
+bassoon,musical instrument,musical instrument,musical instrument,22
+bongo,musical instrument,musical instrument,musical instrument,22
+clarinet,musical instrument,musical instrument,musical instrument,22
+hearing aid,,electronic device,medical equipment,22
+tambourine,musical instrument,musical instrument,musical instrument,22
+gong,musical instrument,musical instrument,musical instrument,22
+whistle,,musical instrument,,22
+cello,musical instrument,musical instrument,musical instrument,22
+recorder,musical instrument,musical instrument,musical instrument,22
+bell,musical instrument,,musical instrument,22
+harp,musical instrument,musical instrument,musical instrument,22
+chime,musical instrument,musical instrument,musical instrument,22
+wind chimes,,decoration,home decor,22
+microphone,,,electronic device,22
+accordion,musical instrument,musical instrument,musical instrument,22
+metronome,,,,22
+drum,musical instrument,musical instrument,musical instrument,22
+drumstick,,,,22
+ear,body part,body part,body part,22
+earplug,,,,22
+piano,musical instrument,musical instrument,musical instrument,22
+bagpipe,musical instrument,musical instrument,musical instrument,22
+noisemaker,,,toy,22
+flute,musical instrument,musical instrument,musical instrument,22
+banjo,musical instrument,musical instrument,musical instrument,22
+horn,musical instrument,,musical instrument,22
+trombone,musical instrument,musical instrument,musical instrument,22
+speaker,,,,22
+stereo,electronic device,,electronic device,22
+amplifier,,,electronic device,22
+harmonica,musical instrument,musical instrument,musical instrument,22
+cuckoo clock,,,home decor,22
+tuning fork,tool,,,22
+tuba,musical instrument,musical instrument,musical instrument,22
+saxophone,musical instrument,musical instrument,musical instrument,22
+baton,,,,22
+violin,musical instrument,musical instrument,musical instrument,22
+kazoo,musical instrument,musical instrument,musical instrument,22
+organ,musical instrument,musical instrument,musical instrument,22
+siren,,,,22
+baton,sports equipment,,sports equipment,22
+keyboard,musical instrument,,musical instrument,22
+stethoscope,medical equipment,,medical equipment,22
+guitar,musical instrument,musical instrument,musical instrument,22
+ukulele,musical instrument,musical instrument,musical instrument,22
+xylophone,musical instrument,musical instrument,musical instrument,22
+cymbal,musical instrument,musical instrument,musical instrument,22
+trumpet,musical instrument,musical instrument,musical instrument,22
+turntable,,,electronic device,22
+pig,animal,animal,"animal, food",23
+ostrich,"animal, bird","animal, bird","animal, bird",23
+hyena,animal,animal,animal,23
+rabbit,animal,animal,"animal, food",23
+kitten,animal,animal,animal,23
+chihuahua,,animal,animal,23
+sheep,animal,animal,animal,23
+bull,animal,animal,animal,23
+chick,"animal, bird","animal, bird","animal, bird",23
+turkey,bird,"animal, bird","animal, bird, food",23
+piglet,animal,animal,animal,23
+ferret,animal,animal,animal,23
+poodle,,animal,animal,23
+puppy,animal,animal,animal,23
+coop,,,container,23
+llama,animal,animal,animal,23
+pug,,animal,animal,23
+zebra,animal,animal,animal,23
+guinea pig,animal,animal,animal,23
+pet food,,food,,23
+ram,animal,animal,animal,23
+calf,body part,body part,body part,23
+rooster,bird,"animal, bird","animal, bird",23
+calf,animal,animal,animal,23
+dalmatian,,animal,animal,23
+yak,animal,animal,animal,23
+camel,animal,animal,animal,23
+bison,animal,animal,animal,23
+dog,animal,animal,animal,23
+lamb,animal,animal,"animal, food",23
+cow,animal,animal,animal,23
+donkey,animal,animal,animal,23
+dogfood,,food,,23
+alpaca,animal,animal,animal,23
+trough,,container,,23
+boar,animal,animal,animal,23
+goat,animal,animal,"animal, food",23
+blanket,,,,24
+bookshelf,furniture,,furniture,24
+bedpost,furniture,,,24
+wall,,,,24
+pillow,home decor,,home decor,24
+umbrella,,,,24
+hammock,,furniture,furniture,24
+trapdoor,,,,24
+towel rack,,,,24
+gurney,medical equipment,,medical equipment,24
+footrest,furniture,,furniture,24
+highchair,,furniture,furniture,24
+bed,furniture,furniture,furniture,24
+hanger,,,,24
+ottoman,furniture,furniture,furniture,24
+bassinet,,furniture,furniture,24
+bulletin board,,,,24
+place mat,,,home decor,24
+tablecloth,,,,24
+table,furniture,furniture,furniture,24
+window,,,,24
+windowsill,,,,24
+rug,,,home decor,24
+loveseat,furniture,furniture,furniture,24
+curtain,home decor,,home decor,24
+sawhorse,tool,,tool,24
+crib,,furniture,furniture,24
+canvas,,,,24
+counter,,furniture,furniture,24
+couch,furniture,furniture,furniture,24
+cot,,furniture,furniture,24
+stool,furniture,furniture,furniture,24
+corkboard,office supply,,,24
+sheet,,,,24
+shelf,,,furniture,24
+workbench,furniture,furniture,furniture,24
+step stool,furniture,furniture,furniture,24
+coat rack,"furniture, home decor",,furniture,24
+air mattress,,,furniture,24
+lectern,furniture,furniture,furniture,24
+stair,,,,24
+sofa bed,furniture,furniture,furniture,24
+lampshade,home decor,,home decor,24
+chair,furniture,furniture,furniture,24
+chandelier,,,home decor,24
+awning,,,,24
+rocking chair,furniture,furniture,furniture,24
+desk,furniture,furniture,furniture,24
+tent,,,container,24
+doghouse,,,container,24
+mantle,,,,24
+tarp,,,,24
+drawer,,container,container,24
+dresser,furniture,furniture,"furniture, container",24
+dumbwaiter,,,,24
+red carpet,,,,24
+easel,,,,24
+bunkbed,furniture,furniture,furniture,24
+doormat,,,,24
+cabinet,,furniture,"furniture, container",24
+teepee,,,,24
+mat,,,,24
+doorbell,,,,24
+mattress,,,furniture,24
+door,,,,24
+incubator,,,electronic device,24
+nightstand,furniture,,"furniture, container",24
+doorknob,,,,24
+recliner,furniture,furniture,furniture,24
+life jacket,,,clothing,25
+jacket,clothing,clothing,clothing,25
+headscarf,clothing accessory,clothing,clothing,25
+leotard,clothing,clothing,clothing,25
+lab coat,clothing,clothing,clothing,25
+mask,,clothing,,25
+ironing board,,,,25
+handkerchief,clothing accessory,,clothing accessory,25
+visor,,,"clothing, clothing accessory",25
+kimono,clothing,clothing,clothing,25
+kilt,clothing,clothing,clothing,25
+hat,clothing accessory,clothing,"clothing, clothing accessory",25
+jersey,clothing,,clothing,25
+headdress,clothing accessory,clothing,"clothing, clothing accessory",25
+bathrobe,clothing,clothing,clothing,25
+wig,,clothing,,25
+headband,,,"clothing, clothing accessory",25
+bandanna,clothing accessory,,"clothing, clothing accessory",25
+jumpsuit,clothing,clothing,clothing,25
+mannequin,,,,25
+hood,clothing,clothing,,25
+loincloth,clothing,clothing,clothing,25
+hoodie,clothing,,clothing,25
+apron,,clothing,clothing,25
+lingerie,clothing,clothing,clothing,25
+mustache,,,body part,25
+jeans,clothing,clothing,clothing,25
+beanie,,clothing,clothing,25
+vest,clothing,clothing,clothing,25
+scarf,clothing accessory,clothing,"clothing, clothing accessory",25
+nightshirt,clothing,clothing,clothing,25
+swimsuit,clothing,clothing,clothing,25
+t-shirt,clothing,clothing,clothing,25
+diaper,,clothing,clothing,25
+robe,clothing,clothing,clothing,25
+dress,clothing,clothing,clothing,25
+raincoat,,clothing,clothing,25
+sweatsuit,clothing,clothing,clothing,25
+beard,,,body part,25
+eye patch,medical equipment,,"medical equipment, clothing, clothing accessory",25
+pom-pom,,decoration,,25
+polo shirt,clothing,clothing,clothing,25
+fishnet stockings,clothing,,clothing,25
+bra,clothing,clothing,clothing,25
+toga,clothing,clothing,clothing,25
+tie,clothing accessory,clothing,"clothing, clothing accessory",25
+sweater,clothing,clothing,clothing,25
+sunglasses,,,,25
+cummerbund,"clothing, clothing accessory",,"clothing, clothing accessory",25
+sombrero,,clothing,"clothing, clothing accessory",25
+cloak,clothing,clothing,clothing,25
+closet,,furniture,"furniture, container",25
+clothes,,clothing,clothing,25
+coat,clothing,clothing,clothing,25
+skirt,clothing,clothing,clothing,25
+shorts,clothing,clothing,clothing,25
+shirt,clothing,clothing,clothing,25
+shawl,clothing,clothing,"clothing, clothing accessory",25
+cardigan,clothing,clothing,clothing,25
+corset,clothing,clothing,clothing,25
+costume,clothing,clothing,clothing,25
+cape,clothing,clothing,clothing,25
+coverall,clothing,clothing,clothing,25
+suit,clothing,clothing,clothing,25
+boxer shorts,,clothing,clothing,25
+bowtie,"clothing, clothing accessory",clothing,"clothing, clothing accessory",25
+tiara,,clothing,clothing,25
+pajamas,clothing,clothing,clothing,25
+bikini,,clothing,clothing,25
+hair,body part,,body part,25
+turban,,clothing,clothing,25
+outfit,clothing,clothing,clothing,25
+blazer,clothing,clothing,clothing,25
+overalls,clothing,clothing,clothing,25
+top hat,clothing accessory,clothing,"clothing, clothing accessory",25
+blouse,clothing,clothing,clothing,25
+undershirt,clothing,clothing,clothing,25
+panties,,clothing,clothing,25
+pants,clothing,clothing,clothing,25
+turtleneck,clothing,clothing,clothing,25
+pantsuit,clothing,clothing,clothing,25
+underwear,clothing,clothing,clothing,25
+tuxedo,clothing,clothing,clothing,25
+hairnet,,,,25
+fur coat,clothing,clothing,clothing,25
+pantyhose,clothing,clothing,clothing,25
+gas mask,,,,25
+uniform,clothing,clothing,clothing,25
+veil,,clothing,clothing,25
+bonnet,,clothing,"clothing, clothing accessory",25
+boa,clothing accessory,clothing,"clothing, clothing accessory",25
+charger,,,,26
+laptop,electronic device,,electronic device,26
+cellphone,electronic device,,electronic device,26
+typewriter,,,,26
+cassette,,container,,26
+copier,,,electronic device,26
+chip,,,,26
+computer screen,electronic device,electronic device,electronic device,26
+videocassette,,container,,26
+computer,electronic device,,electronic device,26
+hard disk,,,,26
+cd player,electronic device,,electronic device,26
+sim card,,,,26
+phone,,,,26
+headphones,,,,26
+gauge,,,,26
+touchpad,,,,26
+modem,electronic device,,electronic device,26
+payphone,,,,26
+printer,,,electronic device,26
+motherboard,,,,26
+radio,electronic device,,electronic device,26
+headset,,,,26
+record,,,,26
+record player,,,electronic device,26
+tape recorder,electronic device,,electronic device,26
+diskette,,,,26
+tablet,electronic device,,electronic device,26
+dial,,,,26
+router,,,electronic device,26
+joystick,,,electronic device,26
+jukebox,,,electronic device,26
+battery,,,,26
+phone booth,,,,26
+fire pit,,,,
+laser pointer,,,,
+light switch,,,,
+memory stick,,,,
+photo booth,,,,
+ready meal,food,,food,
+spring roll,food,,food,
+swing set,,,,
+train car,vehicle,,,
+tube top,clothing,,clothing,

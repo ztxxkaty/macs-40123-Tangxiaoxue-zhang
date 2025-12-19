@@ -1,0 +1,169 @@
+{
+    "62": {
+        "class_type": "UNETLoader",
+        "inputs": {
+            "unet_name": "qwen_image_edit_2509_fp8_e4m3fn.safetensors",
+            "weight_dtype": "default"
+        }
+    },
+    "4": {
+        "class_type": "LoraLoaderModelOnly",
+        "inputs": {
+            "model": [
+                "62",
+                0
+            ],
+            "lora_name": "Qwen-Image-Lightning-8steps-V2.0-bf16.safetensors",
+            "strength_model": 1.0
+        }
+    },
+    "13": {
+        "class_type": "ModelSamplingAuraFlow",
+        "inputs": {
+            "model": [
+                "4",
+                0
+            ],
+            "shift": 3.0
+        }
+    },
+    "14": {
+        "class_type": "CFGNorm",
+        "inputs": {
+            "model": [
+                "13",
+                0
+            ],
+            "strength": 1.0
+        }
+    },
+    "24": {
+        "class_type": "CLIPLoader",
+        "inputs": {
+            "clip_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+            "type": "qwen_image",
+            "device": "default"
+        }
+    },
+    "25": {
+        "class_type": "VAELoader",
+        "inputs": {
+            "vae_name": "qwen_image_vae.safetensors"
+        }
+    },
+    "10": {
+        "class_type": "LoadImage",
+        "inputs": {
+            "image": "aardvark_01b.jpg"
+        }
+    },
+    "12": {
+        "class_type": "LoadImage",
+        "inputs": {
+            "image": "abacus_01b.jpg"
+        }
+    },
+    "74": {
+        "class_type": "EmptyLatentImage",
+        "inputs": {
+            "width": 1024,
+            "height": 1024,
+            "batch_size": 1
+        }
+    },
+    "5": {
+        "class_type": "TextEncodeQwenImageEditPlus",
+        "inputs": {
+            "clip": [
+                "24",
+                0
+            ],
+            "vae": [
+                "25",
+                0
+            ],
+            "image1": [
+                "10",
+                0
+            ],
+            "image2": [
+                "12",
+                0
+            ],
+            "prompt": "Obtain the item in image 1, obtain the item in image 2, and create a medium shot portrait of two items together."
+        }
+    },
+    "6": {
+        "class_type": "TextEncodeQwenImageEditPlus",
+        "inputs": {
+            "clip": [
+                "24",
+                0
+            ],
+            "vae": [
+                "25",
+                0
+            ],
+            "image1": [
+                "10",
+                0
+            ],
+            "image2": [
+                "12",
+                0
+            ],
+            "prompt": "blurry, low quality, low resolution, bad anatomy, deformed, distorted, extra limbs, missing limbs, extra fingers, fused fingers, text, watermark, logo, artifacts, overexposed, underexposed, grainy"
+        }
+    },
+    "15": {
+        "class_type": "KSampler",
+        "inputs": {
+            "model": [
+                "14",
+                0
+            ],
+            "positive": [
+                "5",
+                0
+            ],
+            "negative": [
+                "6",
+                0
+            ],
+            "latent_image": [
+                "74",
+                0
+            ],
+            "seed": 2068,
+            "control after generate": "increment",
+            "steps": 8,
+            "cfg": 1.0,
+            "sampler_name": "lcm",
+            "scheduler": "simple",
+            "denoise": 1.0
+        }
+    },
+    "20": {
+        "class_type": "VAEDecode",
+        "inputs": {
+            "samples": [
+                "15",
+                0
+            ],
+            "vae": [
+                "25",
+                0
+            ]
+        }
+    },
+    "19": {
+        "class_type": "SaveImage",
+        "inputs": {
+            "images": [
+                "20",
+                0
+            ],
+            "filename_prefix": "QwenPlusMultiEditV1"
+        }
+    }
+}

@@ -1,0 +1,554 @@
+[
+    {
+        "grapefruit_10s": 0.9097368717193604,
+        "granola_07s": 0.8094499111175537,
+        "grapefruit_10s&&granola_07s_00001_": 0.8573886156082153,
+        "tag": "combination"
+    },
+    {
+        "grapefruit_14s": 0.8613274097442627,
+        "granola_04s": 0.9168999791145325,
+        "grapefruit_14s&&granola_04s_00001_": 0.9069266319274902,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "grapefruit_15s": 0.9553461670875549,
+        "granola_14s": 0.844550609588623,
+        "grapefruit_15s&&granola_14s_00001_": 0.8500057458877563,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "grapefruit_02s": 0.9061657190322876,
+        "granola_02s": 0.8754630088806152,
+        "grapefruit_02s&&granola_02s_00001_": 0.9071510434150696,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "grapefruit_16n": 0.9285822510719299,
+        "granola_15s": 0.8015612959861755,
+        "grapefruit_16n&&granola_15s_00001_": 0.8180649876594543,
+        "tag": "combination"
+    },
+    {
+        "grapefruit_08s": 0.8902026414871216,
+        "granola_10s": 0.9353903532028198,
+        "grapefruit_08s&&granola_10s_00001_": 0.9459294080734253,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "grapefruit_06s": 0.9635476469993591,
+        "granola_08s": 0.8296481966972351,
+        "grapefruit_06s&&granola_08s_00001_": 0.8649562001228333,
+        "tag": "combination"
+    },
+    {
+        "grapefruit_05s": 0.9083570241928101,
+        "granola_05s": 0.8530126810073853,
+        "grapefruit_05s&&granola_05s_00001_": 0.8568731546401978,
+        "tag":"copy of the 2nd image"
+    },
+    {
+        "grapefruit_14s": 0.8613274097442627,
+        "granola_17s": 0.8873764872550964,
+        "grapefruit_14s&&granola_17s_00001_": 0.8336074948310852,
+        "tag":"copy of the 1st image"
+    },
+    {
+        "grapefruit_09s": 0.9363163709640503,
+        "granola_03s": 0.7802355289459229,
+        "grapefruit_09s&&granola_03s_00001_": 0.8001033067703247,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "grapefruit_03s": 0.9219897985458374,
+        "granola_12s": 0.9197826385498047,
+        "grapefruit_03s&&granola_12s_00001_": 0.9221969842910767,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "grapefruit_07s": 0.8645851612091064,
+        "granola_16s": 0.746318519115448,
+        "grapefruit_07s&&granola_16s_00001_": 0.8660707473754883,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "grapefruit_04s": 0.8916308283805847,
+        "granola_17s": 0.8873764872550964,
+        "grapefruit_04s&&granola_17s_00001_": 0.8777629137039185,
+        "tag": "combination"
+    },
+    {
+        "grapefruit_11s": 0.9243931174278259,
+        "granola_13s": 0.8421553373336792,
+        "grapefruit_11s&&granola_13s_00001_": 0.8378358483314514,
+        "tag": "combination"
+    },
+    {
+        "grapefruit_01b": 0.9146410822868347,
+        "granola_06s": 0.8395071625709534,
+        "grapefruit_01b&&granola_06s_00001_": 0.8457035422325134,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "grapefruit_13s": 0.8947128057479858,
+        "granola_01b": 0.8221175670623779,
+        "grapefruit_13s&&granola_01b_00001_": 0.880346953868866,
+        "tag": "combination"
+    },
+    {
+        "grapefruit_17n": 0.887336254119873,
+        "granola_09s": 0.8880935311317444,
+        "grapefruit_17n&&granola_09s_00001_": 0.9023535251617432,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_12s": 0.9033957719802856,
+        "knife_13s": 0.9257780313491821,
+        "gun_12s&&knife_13s_00001_": 0.9292492270469666,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_04s": 0.7894074320793152,
+        "knife_14s": 0.885644793510437,
+        "gun_04s&&knife_14s_00001_": 0.8945740461349487,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_06s": 0.9411211609840393,
+        "knife_03s": 0.9124292135238647,
+        "gun_06s&&knife_03s_00001_": 0.9122880101203918,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_03s": 0.9588621854782104,
+        "knife_10s": 0.9178641438484192,
+        "gun_03s&&knife_10s_00001_": 0.9356845021247864,
+        "tag": "combination"
+    },
+    {
+        "gun_11s": 0.9078439474105835,
+        "knife_11s": 0.8617275953292847,
+        "gun_11s&&knife_11s_00001_": 0.8591757416725159,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_09s": 0.7887035012245178,
+        "knife_06s": 0.8993154764175415,
+        "gun_09s&&knife_06s_00001_": 0.7739325165748596,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "gun_05s": 0.9129958748817444,
+        "knife_07s": 0.9116193056106567,
+        "gun_05s&&knife_07s_00001_": 0.8850845098495483,
+        "tag": "combination"
+    },
+    {
+        "gun_08n": 0.8917840719223022,
+        "knife_01b": 0.8924177289009094,
+        "gun_08n&&knife_01b_00001_": 0.93146151304245,
+        "tag": "combination"
+    },
+    {
+        "gun_07n": 0.8544195890426636,
+        "knife_02s": 0.8842880725860596,
+        "gun_07n&&knife_02s_00001_": 0.8485286831855774,
+        "tag": "combination"
+    },
+    {
+        "gun_10s": 0.9093698859214783,
+        "knife_05s": 0.9442881941795349,
+        "gun_10s&&knife_05s_00001_": 0.9387532472610474,
+        "tag": "combination"
+    },
+    {
+        "gun_01b": 0.8863902688026428,
+        "knife_12s": 0.9009153246879578,
+        "gun_01b&&knife_12s_00001_": 0.9113100171089172,
+        "tag": "combination"
+    },
+    {
+        "gun_02s": 0.8782641887664795,
+        "knife_09s": 0.923081636428833,
+        "gun_02s&&knife_09s_00001_": 0.9300731420516968,
+        "tag": "combination"
+    },
+    {
+        "gun_02s": 0.8782641887664795,
+        "fire_07s": 0.749022901058197,
+        "gun_02s&&fire_07s_00001_": 0.7433881759643555,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_04s": 0.7894074320793152,
+        "fire_12s": 0.7527820467948914,
+        "gun_04s&&fire_12s_00001_": 0.786670982837677,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_05s": 0.9129958748817444,
+        "fire_03s": 0.6826967000961304,
+        "gun_05s&&fire_03s_00001_": 0.694249153137207,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_11s": 0.9078439474105835,
+        "fire_08s": 0.7235352396965027,
+        "gun_11s&&fire_08s_00001_": 0.8358277678489685,
+        "tag": "combination"
+    },
+    {
+        "gun_10s": 0.9093698859214783,
+        "fire_06s": 0.7404122948646545,
+        "gun_10s&&fire_06s_00001_": 0.8171254992485046,
+        "tag": "combination"
+    },
+    {
+        "gun_07n": 0.8544195890426636,
+        "fire_05s": 0.5009533762931824,
+        "gun_07n&&fire_05s_00001_": 0.536554217338562,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_01b": 0.8863902688026428,
+        "fire_02s": 0.7926016449928284,
+        "gun_01b&&fire_02s_00001_": 0.7964746952056885,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_06s": 0.9411211609840393,
+        "fire_01b": 0.7879039645195007,
+        "gun_06s&&fire_01b_00001_": 0.7678326964378357,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_09s": 0.7887035012245178,
+        "fire_10s": 0.7817510962486267,
+        "gun_09s&&fire_10s_00001_": 0.7804623246192932,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_03s": 0.9588621854782104,
+        "fire_11s": 0.7220881581306458,
+        "gun_03s&&fire_11s_00001_": 0.8120270371437073,
+        "tag": "combination"
+    },
+    {
+        "gun_12s": 0.9033957719802856,
+        "fire_04s": 0.6953257918357849,
+        "gun_12s&&fire_04s_00001_": 0.670710027217865,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "gun_08n": 0.8917840719223022,
+        "fire_09s": 0.7805594205856323,
+        "gun_08n&&fire_09s_00001_": 0.8545634150505066,
+        "tag": "combination"
+    },
+    {
+        "bok_choy_15s": 0.9256836175918579,
+        "asparagus_03s": 0.9380288124084473,
+        "bok_choy_15s&&asparagus_03s_00001_": 0.9245084524154663,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_17s": 0.8741918802261353,
+        "asparagus_01b": 0.8794443607330322,
+        "bok_choy_17s&&asparagus_01b_00001_": 0.880002498626709,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_11s": 0.8399818539619446,
+        "asparagus_12s": 0.8884415030479431,
+        "bok_choy_11s&&asparagus_12s_00001_": 0.835588276386261,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_01b": 0.9692842960357666,
+        "asparagus_06s": 0.8957909345626831,
+        "bok_choy_01b&&asparagus_06s_00001_": 0.9515232443809509,
+        "tag": "combination"
+    },
+    {
+        "bok_choy_02s": 0.9115870594978333,
+        "asparagus_09s": 0.8434706926345825,
+        "bok_choy_02s&&asparagus_09s_00001_": 0.833638072013855,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "bok_choy_07s": 0.8685675263404846,
+        "asparagus_05n": 0.9679657220840454,
+        "bok_choy_07s&&asparagus_05n_00001_": 0.8628410696983337,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_04s": 0.945594072341919,
+        "asparagus_02n": 0.9586039781570435,
+        "bok_choy_04s&&asparagus_02n_00001_": 0.9476691484451294,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_06s": 0.8477833867073059,
+        "asparagus_04s": 0.9213195443153381,
+        "bok_choy_06s&&asparagus_04s_00001_": 0.8415042161941528,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_13s": 0.8931549787521362,
+        "asparagus_08s": 0.9325538277626038,
+        "bok_choy_13s&&asparagus_08s_00001_": 0.934532105922699,
+        "tag": "combination"
+    },
+    {
+        "bok_choy_12s": 0.8461483120918274,
+        "asparagus_07s": 0.9840002655982971,
+        "bok_choy_12s&&asparagus_07s_00001_": 0.8588231205940247,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_14s": 0.9100046157836914,
+        "asparagus_11s": 0.9453669786453247,
+        "bok_choy_14s&&asparagus_11s_00001_": 0.8945751190185547,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "bok_choy_08s": 0.9286382794380188,
+        "asparagus_10s": 0.869117021560669,
+        "bok_choy_08s&&asparagus_10s_00001_": 0.8975063562393188,
+        "tag": "combination"
+    },
+    {
+        "coffee_bean_08s": 0.7761409878730774,
+        "coffee_07s": 0.8649492263793945,
+        "coffee_bean_08s&&coffee_07s_00001_": 0.8645663261413574,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "coffee_bean_09s": 0.9302171468734741,
+        "coffee_05s": 0.8698751330375671,
+        "coffee_bean_09s&&coffee_05s_00001_": 0.885349452495575,
+        "tag": "none"
+    },
+    {
+        "coffee_bean_05s": 0.8549860119819641,
+        "coffee_02s": 0.8586968779563904,
+        "coffee_bean_05s&&coffee_02s_00001_": 0.8353108763694763,
+        "tag": "combination"
+    },
+    {
+        "coffee_bean_11s": 0.8829342126846313,
+        "coffee_13s": 0.9123557209968567,
+        "coffee_bean_11s&&coffee_13s_00001_": 0.9033794403076172,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "coffee_bean_04s": 0.9305559396743774,
+        "coffee_04s": 0.8910357356071472,
+        "coffee_bean_04s&&coffee_04s_00001_": 0.8213675618171692,
+        "tag": "combination"
+    },
+    {
+        "coffee_bean_06s": 0.8835767507553101,
+        "coffee_15s": 0.9037099480628967,
+        "coffee_bean_06s&&coffee_15s_00001_": 0.9114008545875549,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "coffee_bean_12s": 0.9395503401756287,
+        "coffee_09s": 0.7882079482078552,
+        "coffee_bean_12s&&coffee_09s_00001_": 0.7659397125244141,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "coffee_bean_07s": 0.9060807824134827,
+        "coffee_10s": 0.9149925708770752,
+        "coffee_bean_07s&&coffee_10s_00001_": 0.9149848818778992,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "coffee_bean_02s": 0.9312613010406494,
+        "coffee_06s": 0.8536919951438904,
+        "coffee_bean_02s&&coffee_06s_00001_": 0.8615481853485107,
+        "tag": "combination"
+    },
+    {
+        "coffee_bean_03s": 0.9382390975952148,
+        "coffee_14s": 0.8695420026779175,
+        "coffee_bean_03s&&coffee_14s_00001_": 0.8721175193786621,
+        "tag": "none"
+    },
+    {
+        "coffee_bean_10s": 0.9145352244377136,
+        "coffee_03s": 0.9513902068138123,
+        "coffee_bean_10s&&coffee_03s_00001_": 0.9202067255973816,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "coffee_bean_01b": 0.9349836707115173,
+        "coffee_12s": 0.8309551477432251,
+        "coffee_bean_01b&&coffee_12s_00001_": 0.7531394362449646,
+        "tag": "none"
+    },
+    {
+        "nail_clippers_04s": 0.940109372138977,
+        "jukebox_09s": 0.8061795830726624,
+        "nail_clippers_04s&&jukebox_09s_00001_": 0.8122266530990601,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_11s": 0.9154189229011536,
+        "jukebox_06s": 0.7835047245025635,
+        "nail_clippers_11s&&jukebox_06s_00001_": 0.911545991897583,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "nail_clippers_07s": 0.9319285750389099,
+        "jukebox_02s": 0.6847583651542664,
+        "nail_clippers_07s&&jukebox_02s_00001_": 0.6880834102630615,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_03s": 0.8687708377838135,
+        "jukebox_03n": 0.8442392945289612,
+        "nail_clippers_03s&&jukebox_03n_00001_": 0.7714671492576599,
+        "tag": "combination"
+    },
+    {
+        "nail_clippers_02s": 0.8725090026855469,
+        "jukebox_01n": 0.7913205623626709,
+        "nail_clippers_02s&&jukebox_01n_00001_": 0.7861407995223999,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_13s": 0.9139690399169922,
+        "jukebox_07s": 0.8494594097137451,
+        "nail_clippers_13s&&jukebox_07s_00001_": 0.9088553786277771,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "nail_clippers_12s": 0.8766355514526367,
+        "jukebox_12n": 0.716166079044342,
+        "nail_clippers_12s&&jukebox_12n_00001_": 0.8854454755783081,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "nail_clippers_01b": 0.7636570930480957,
+        "jukebox_04s": 0.7827004790306091,
+        "nail_clippers_01b&&jukebox_04s_00001_": 0.7552959322929382,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_09s": 0.9018853902816772,
+        "jukebox_10s": 0.8106337785720825,
+        "nail_clippers_09s&&jukebox_10s_00001_": 0.8717837333679199,
+        "tag": "combination"
+    },
+    {
+        "nail_clippers_06s": 0.8407564759254456,
+        "jukebox_11s": 0.8570333123207092,
+        "nail_clippers_06s&&jukebox_11s_00001_": 0.8489048480987549,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_05s": 0.9499343633651733,
+        "jukebox_13s": 0.769511342048645,
+        "nail_clippers_05s&&jukebox_13s_00001_": 0.7803643941879272,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_10s": 0.8959304690361023,
+        "jukebox_08s": 0.755008339881897,
+        "nail_clippers_10s&&jukebox_08s_00001_": 0.7585048675537109,
+        "tag": "copy of the 2nd image"
+    },
+    {
+        "nail_clippers_08s": 0.6710832715034485,
+        "jukebox_05s": 0.8395184874534607,
+        "nail_clippers_08s&&jukebox_05s_00001_": 0.7195642590522766,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_05s": 0.7786204218864441,
+        "flask_07s": 0.9470494389533997,
+        "raccoon_05s&&flask_07s_00001_": 0.7831709384918213,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_01b": 0.8387660980224609,
+        "flask_10s": 0.8985028862953186,
+        "raccoon_01b&&flask_10s_00001_": 0.9513771533966064,
+        "tag": "combination"
+    },
+    {
+        "raccoon_06n": 0.6996999979019165,
+        "flask_14s": 0.9084152579307556,
+        "raccoon_06n&&flask_14s_00001_": 0.7113675475120544,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_13n": 0.7226852774620056,
+        "flask_08s": 0.8584322929382324,
+        "raccoon_13n&&flask_08s_00001_": 0.7152120471000671,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_10s": 0.9329834580421448,
+        "flask_12s": 0.8347063660621643,
+        "raccoon_10s&&flask_12s_00001_": 0.9203346371650696,
+        "tag": "combination"
+    },
+    {
+        "raccoon_11s": 0.7434337139129639,
+        "flask_03s": 0.919402003288269,
+        "raccoon_11s&&flask_03s_00001_": 0.8774694800376892,
+        "tag": "combination"
+    },
+    {
+        "raccoon_12n": 0.7467777132987976,
+        "flask_01b": 0.7427298426628113,
+        "raccoon_12n&&flask_01b_00001_": 0.7548466920852661,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_14s": 0.8329322338104248,
+        "flask_05s": 0.8966368436813354,
+        "raccoon_14s&&flask_05s_00001_": 0.8487918972969055,
+        "tag": "combination"
+    },
+    {
+        "raccoon_03s": 0.800000786781311,
+        "flask_13s": 0.8967098593711853,
+        "raccoon_03s&&flask_13s_00001_": 0.7938317060470581,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_08n": 0.7599077820777893,
+        "flask_02s": 0.8346936702728271,
+        "raccoon_08n&&flask_02s_00001_": 0.8595972657203674,
+        "tag": "combination"
+    },
+    {
+        "raccoon_07n": 0.7480254769325256,
+        "flask_04s": 0.9331346750259399,
+        "raccoon_07n&&flask_04s_00001_": 0.7404748201370239,
+        "tag": "copy of the 1st image"
+    },
+    {
+        "raccoon_04n": 0.8132948875427246,
+        "flask_11s": 0.9002116918563843,
+        "raccoon_04n&&flask_11s_00001_": 0.8113802671432495,
+        "tag": "combination"
+    },
+    {
+        "raccoon_02s": 0.8308324813842773,
+        "flask_06s": 0.9229738116264343,
+        "raccoon_02s&&flask_06s_00001_": 0.8405299186706543,
+        "tag": "combination"
+    },
+    {
+        "raccoon_09s": 0.7852084040641785,
+        "flask_09s": 0.9030278921127319,
+        "raccoon_09s&&flask_09s_00001_": 0.8025121092796326,
+        "tag": "copy of the 1st image"
+    }
+]

@@ -1,0 +1,160 @@
+grapefruit, granola
+coffee bean, coffee
+roll, airbag
+poinsettia, airbag
+penlight, penholder
+revolver, nail clippers
+nail clippers, jukebox
+revolver, jukebox
+pineapple, pine tree
+wallpaper, tape recorder
+taffy, tadpole
+kangaroo, canoe
+stiletto, starfish
+printer, hobbyhorse
+stir fry, stingray
+swab, bikini
+vegetable, cello
+tape recorder, pantsuit
+kiwi, ankle
+roll, poinsettia
+punching bag, burrito
+globe, baseball glove
+tooth, raspberry
+tumbleweed, swing
+tooth, parfait
+headscarf, headlight
+turntable, lightning bug
+snowsuit, couch
+shears, shawl
+guinea pig, banjo
+vegetable, pheasant
+toast, parfait
+mallet, banjo
+swing, shelf
+wrap, speedometer
+onion, flour
+pie, piano
+scallion, bus
+toad, oilcan
+pheasant, cello
+pepperoni, dogfood
+mole, deer
+blueberry, berry
+syrup, burrito
+ham, cheeseburger
+cello, bassoon
+clarinet, cello
+corkscrew, bottle opener
+clarinet, bassoon
+toast, peppermint
+grape, cantaloupe
+espresso, coffee
+sorbet, parfait
+ice-cream cone, ice cream
+asparagus, artichoke
+cupcake, cake
+bok choy, asparagus
+dog, dalmatian
+cranberry, blueberry
+cloak, cape
+canoe, boat
+cabbage, broccoli
+dress, blouse
+snowsuit, loincloth
+stingray, otter
+elbow, arm
+goblet, glass
+cabbage, asparagus
+coyote, cougar
+cantaloupe, banana
+broccoli, bok choy
+peach, cantaloupe
+lavender, dandelion
+cantaloupe, avocado
+meat, casserole
+broccoli, asparagus
+cranberry, berry
+candy bar, candy
+blackberry, berry
+scone, meat
+seatbelt, pencil
+tricycle, pencil
+pencil, drink
+pencil, ambulance
+seatbelt, dreidel
+squirt gun, jet
+poppy, penholder
+pencil, ferry
+crown, airboat
+pasta, mitten
+sea urchin, cordon bleu
+wok, pencil
+lingerie, coop
+seatbelt, belt buckle
+reindeer, poppy
+letter opener, cordon bleu
+sweater, salami
+scuba, pencil
+pencil, airboat
+raccoon, flask
+rickshaw, dreidel
+salami, headscarf
+poppy, cilantro
+vending machine, hippopotamus
+cordon bleu, brake
+poppy, ferry
+underwear, airboat
+tostada, mustache
+tape, pencil
+cordon bleu, car seat
+snorkel, pencil
+cordon bleu, ambulance
+squirrel, seatbelt
+spaghetti, kitten
+poppy, hand
+wetsuit, boar
+kettle, hip
+engine, cordon bleu
+poppy, dip
+pencil, humvee
+wetsuit, crown
+gumdrop, cordon bleu
+soy sauce, omelet
+teacup, bucket
+wetsuit, armor
+soy sauce, cordon bleu
+roll, cordon bleu
+salami, lollipop
+sugar cube, cordon bleu
+poppy, grapevine
+tortilla, cordon bleu
+guacamole, cordon bleu
+tostada, salami
+seafood, hamburger
+pasta, caviar
+hubcap, filter
+tostada, cordon bleu
+teacup, chalice
+wrench, magnet
+seatbelt, beanie
+spaghetti, seafood
+taffy, cordon bleu
+jellyfish, blowfish
+maple syrup, lasagna
+seatbelt, hubcap
+salami, pesto
+pasta, fondue
+peanut butter, cordon bleu
+jetski, airboat
+spaghetti, butter
+lingerie, fishnet stockings
+sauerkraut, chili
+sauerkraut, dip
+worm, raccoon
+spaghetti, dough
+spaghetti, salami
+spaghetti, dip
+mongoose, jellyfish
+trunk, briefcase
+taxi, police car

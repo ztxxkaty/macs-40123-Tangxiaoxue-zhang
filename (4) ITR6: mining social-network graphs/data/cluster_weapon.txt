@@ -1,0 +1,40 @@
+gun
+landmine
+lighter
+flamethrower
+dynamite
+fire
+firecracker
+firetruck
+fireworks
+solar panel
+extinguisher
+cannon
+fire alarm
+bulldozer
+blowtorch
+blowgun
+rifle
+grenade
+catapult
+rocket
+trigger
+detonator
+shell
+hail
+dart
+missile
+bazooka
+cannonball
+squirt gun
+revolver
+tank
+bullet
+remote control
+slingshot
+torpedo
+submarine
+bomb
+machine gun
+armor
+bulletproof vest
